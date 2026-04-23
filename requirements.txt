@@ -1,0 +1,13 @@
+pandas
+requests
+beautifulsoup4
+lxml
+jupyter
+matplotlib
+seaborn
+numpy
+psycopg2-binary
+sqlalchemy
+python-dotenv
+tqdm
+openpyxl
