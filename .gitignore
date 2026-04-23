@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Data (don't commit large raw files)
+*.csv
+!data/sample/*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
