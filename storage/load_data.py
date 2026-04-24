@@ -1,6 +1,10 @@
 import pandas as pd
-import psycopg2
 from pathlib import Path
+
+try:
+    import psycopg2
+except ImportError:
+    psycopg2 = None
 
 
 PROCESSED_DIR = Path("data/processed")
@@ -19,6 +23,11 @@ def connect_to_db():
     Creates a connection to the PostgreSQL database.
     Update DB_NAME, DB_USER, and DB_PASSWORD before running.
     """
+    if psycopg2 is None:
+        raise ImportError(
+            "psycopg2 is not installed. Install it with: pip install psycopg2-binary"
+        )
+
     return psycopg2.connect(
         dbname=DB_NAME,
         user=DB_USER,
@@ -137,8 +146,12 @@ def load_data(cursor, df):
 def main():
     print("Loading final dataset...")
 
-    df = pd.read_csv(FINAL_DATASET_PATH)
+    if not FINAL_DATASET_PATH.exists():
+        raise FileNotFoundError(
+            "final_dataset.csv was not found. Run cleaning/clean_transform.py first."
+        )
 
+    df = pd.read_csv(FINAL_DATASET_PATH)
     print(f"Rows to load: {len(df)}")
 
     conn = connect_to_db()
