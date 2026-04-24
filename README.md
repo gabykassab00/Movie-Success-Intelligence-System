@@ -1,208 +1,158 @@
-# Movie Data Processing Pipeline
+# 🎬 Movie Success Intelligence System
 
 **MSBA 305 — Data Processing Framework — Spring 2025/2026**
-Instructor: Dr. Ahmad El-Hajj — Suliman S. Olayan School of Business, AUB
-
-A complete data pipeline that ingests three heterogeneous movie datasets
-(TMDB API, Box Office Mojo, Top 200 Movies 2023), integrates them into a
-normalized PostgreSQL schema, and exposes a query-ready analytical view.
+Instructor: Dr. Ahmad El-Hajj — AUB
 
 ---
 
-## Overview
+## 🚀 Overview
 
-**Business problem.** A hypothetical film investment analytics firm needs a
-unified, query-ready dataset combining audience reception, commercial
-performance, and distribution reference data to benchmark historical signals
-against greenlight decisions.
+A complete **end-to-end data pipeline** that integrates three heterogeneous movie datasets:
 
-**Pipeline.** Three sources → pandas cleaning + integration →
-PostgreSQL 18 (4 normalized tables + `movie_full_view`) → 6 analytical SQL
-queries + 3 Matplotlib charts.
+* TMDB API (metadata, ratings, popularity)
+* Box Office Mojo (revenue)
+* Top 200 Movies 2023 (reference data)
 
-**Scale.** 281 integrated films, 1950–2024, 100% complete on all core
-analytical fields (revenue, vote_average, popularity, genres).
-
-For the full architecture decisions, see `docs/Report.docx`.
+➡️ Cleaned with pandas → stored in PostgreSQL → analyzed via SQL → visualized with charts
 
 ---
 
-## Folder Structure
+## 🎯 Business Problem
+
+A film analytics firm needs a **unified dataset** to answer:
+
+* Which movies generate the highest revenue?
+* Do higher ratings lead to higher profits?
+* Which distributors dominate the market?
+* What trends exist across years?
+
+---
+
+## 📊 Pipeline Summary
+
+```text
+Raw Data → Cleaning (pandas) → Integration → PostgreSQL → SQL Queries → Charts
+```
+
+---
+
+## 📁 Project Structure
 
 ```
 movie_project/
-├── README.md                   (this file)
-├── requirements.txt            (pinned Python deps)
-├── .env.example                (template for TMDB_API_KEY)
-├── run_pipeline.py             (one-command orchestrator)
-│
-├── ingestion/
-│   ├── fetch_tmdb.py           (TMDB API puller with retry + back-off)
-│   └── load_csv_sources.py     (reads Box Office + Top 200 CSVs)
-│
-├── cleaning/
-│   └── integrate.py            (title normalization, currency regex,
-│                                cross-source join, dedup)
-│
-├── db/
-│   ├── schema.sql              (CREATE TABLE + index DDL)
-│   └── load.py                 (populate tables from cleaned CSV)
-│
-├── queries/
-│   └── analytics.sql           (6 queries: filter → window → CTE → array)
-│
-├── viz/
-│   └── charts.py               (3 EDA charts from final_dataset.csv)
-│
-├── data/
-│   ├── raw/                    (place downloaded source files here)
-│   └── clean/                  (final_dataset.csv is written here)
-│
-└── docs/
-    └── Report.docx             (full architecture report)
+├── ingestion/        # Data collection (API + CSV)
+├── cleaning/         # Data cleaning & integration
+├── db/               # Database schema + loading
+├── queries/          # Analytical SQL queries
+├── viz/              # Visualizations
+├── data/             # Raw & cleaned data
+├── docs/             # Report & documentation
+└── run_pipeline.py   # Full pipeline runner
 ```
 
 ---
 
-## Requirements
+## ⚙️ Requirements
 
-- **Python 3.10+**
-- **PostgreSQL 18** running locally (or remote via connection string)
-- **pgAdmin 4** (optional but recommended for browsing the database)
+* Python 3.10+
+* PostgreSQL 18
+* Optional: pgAdmin
 
-Python packages (see `requirements.txt`):
+Install dependencies:
 
-```
-pandas>=2.2.0
-requests>=2.31.0
-psycopg2-binary>=2.9.9
-matplotlib>=3.8.0
-seaborn>=0.13.0
-python-dotenv>=1.0.0
-```
-
----
-
-## Setup
-
-### 1. Clone and install
-
-```bash 
-git clone <repo_url> movie_project
-cd movie_project
-python -m venv .venv
-source .venv/bin/activate       # on Windows: .venv\Scripts\activate
+```bash
 pip install -r requirements.txt
 ```
 
-### 2. Configure environment
+---
+
+## 🛠️ Setup
+
+### 1. Clone the repo
 
 ```bash
-cp .env.example .env
-# Edit .env and fill in:
-#   TMDB_API_KEY=<your-v3-api-key-from-themoviedb.org>
-#   PG_DSN=postgresql://postgres:<password>@localhost:5432/movie_project
+git clone <repo_url>
+cd movie_project
 ```
 
-Register a free TMDB API key at
-[themoviedb.org](https://www.themoviedb.org/settings/api).
-
-### 3. Create the PostgreSQL database
+### 2. Create environment
 
 ```bash
-createdb movie_project
-psql -d movie_project -f db/schema.sql
+python -m venv .venv
+.venv\Scripts\activate
 ```
 
-Alternatively, restore the included backup to skip the pipeline run:
+### 3. Configure `.env`
 
 ```bash
-pg_restore -d movie_project movie_project.backup
+TMDB_API_KEY=your_api_key
+PG_DSN=postgresql://postgres:<password>@localhost:5432/movie_project
 ```
 
 ---
 
-## Running the Pipeline
+## ▶️ Run the Pipeline
 
-### One-command run
+### One command
 
 ```bash
 python run_pipeline.py
 ```
 
-This executes the full chain: fetch TMDB → read CSVs → clean →
-integrate → load to PostgreSQL → generate charts.
-
-### Step by step
+### Step-by-step
 
 ```bash
-# 1. Pull TMDB records (writes data/raw/tmdb_raw.json)
-python ingestion/fetch_tmdb.py --pages 25
-
-# 2. Verify the two source CSVs are in data/raw/
-#    - data/raw/boxoffice_raw.csv
-#    - data/raw/top200_2023.csv
+python ingestion/fetch_tmdb.py
 python ingestion/load_csv_sources.py
-
-# 3. Clean, normalize titles, integrate across the three sources
-#    (writes data/clean/final_dataset.csv)
 python cleaning/integrate.py
-
-# 4. Load the cleaned dataset into PostgreSQL
 python db/load.py
-
-# 5. Run the analytical queries
 psql -d movie_project -f queries/analytics.sql
-
-# 6. Generate charts (writes viz/chart*.png)
 python viz/charts.py
 ```
 
 ---
 
-## Architecture Highlights
+## 📈 Key Features
 
-- **Storage choice:** PostgreSQL 18. Alternatives evaluated and rejected:
-  MongoDB (rejected — denormalization cost, no FK integrity) and flat CSV
-  (rejected — no index support, no concurrency). See `docs/Report.docx §5`.
-- **Processing:** Local pandas. Alternatives rejected: PySpark (overhead
-  exceeds pipeline runtime on sub-MB data) and Polars (no measurable gain
-  at our scale). See `docs/Report.docx §7`.
-- **Ingestion:** Batch. Streaming (Kafka) and orchestrated batch (Airflow)
-  rejected for one-shot project scope. Airflow is the documented production
-  scaling path. See `docs/Report.docx §4`.
-- **Integration strategy:** Join on `(title_clean, year)`. 56% TMDB
-  retention; 4.6% reference match rate (disclosed honestly). See
-  `docs/Report.docx §3`.
+* ✔ Multi-source data integration
+* ✔ Cleaned and normalized dataset
+* ✔ PostgreSQL relational schema
+* ✔ Indexed query-ready view
+* ✔ Analytical SQL queries
+* ✔ Visual insights with charts
 
 ---
 
-## Known Limitations
+## 🧠 Architecture Highlights
 
-1. **Reference data thin.** Only 13 of 281 rows (4.6%) match the Top 200
-   2023 reference dataset. Queries using `distributor` are caveated as
-   indicative-only.
-2. **U.S. domestic revenue only.** Box Office Mojo does not capture
-   international gross. Understates global revenue 40–60% on major
-   releases.
-3. **No inflation adjustment.** Revenue values are nominal.
-4. **TMDB selection bias.** Crowd-sourced, English-weighted, recency-biased.
-
-These are disclosed in the report rather than silently tolerated.
+* **Database:** PostgreSQL (chosen over MongoDB, Neo4j)
+* **Processing:** pandas (lightweight vs Spark)
+* **Pipeline:** Batch processing (simple + reproducible)
+* **Integration:** `(title_clean + year)` matching
 
 ---
 
-## AI Usage Disclosure
+## ⚠️ Known Limitations
 
-AI assistants (Claude) were used for code scaffolding, debugging, and
-documentation review. Every interaction is documented in
-`docs/Report.docx §11` using the format required by the course brief.
-No AI-generated code was merged without team review.
+* Only **4.6% match** with reference dataset
+* Revenue = **US domestic only**
+* No inflation adjustment
+* TMDB bias (recency + popularity skew)
 
 ---
 
-## License / Academic Use Notice
+## 🤖 AI Usage
 
-This repository is an academic deliverable for MSBA 305 at AUB. Source
-data belongs to the respective providers (TMDB, Box Office Mojo). See
-the report references for attribution.
+AI tools were used for:
+
+* Code scaffolding
+* Debugging
+* Documentation
+
+All usage is documented in the report.
+
+---
+
+## 📌 Conclusion
+
+This project demonstrates a **complete, reproducible data pipeline** that transforms raw movie data into structured insights for decision-making.
