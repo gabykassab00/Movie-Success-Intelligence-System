@@ -1,0 +1,501 @@
+genre_ids,id,original_language,original_title,popularity,release_date,title,vote_average,vote_count,year,genres,title_clean
+"[10751, 35, 12, 14, 16]",502356,en,The Super Mario Bros. Movie,380.5992,2023-04-05,The Super Mario Bros. Movie,7.588,10473,2023,"Family, Comedy, Adventure, Fantasy, Animation",the super mario bros. movie
+[18],615,en,The Passion of the Christ,130.344,2004-02-25,The Passion of the Christ,7.537,5146,2004,Drama,the passion of the christ
+"[18, 35]",350,en,The Devil Wears Prada,99.2223,2006-06-29,The Devil Wears Prada,7.389,12919,2006,"Drama, Comedy",the devil wears prada
+"[28, 12, 878]",634649,en,Spider-Man: No Way Home,77.2189,2021-12-15,Spider-Man: No Way Home,7.934,21777,2021,"Action, Adventure, Science Fiction",spider-man: no way home
+"[12, 18, 878]",157336,en,Interstellar,67.6472,2014-11-05,Interstellar,8.5,39362,2014,"Adventure, Drama, Science Fiction",interstellar
+"[28, 12, 53, 80, 18]",7451,en,xXx,54.7515,2002-08-09,xXx,5.984,4851,2002,"Action, Adventure, Thriller, Crime, Drama",xxx
+"[878, 28, 12]",24428,en,The Avengers,54.3386,2012-04-25,The Avengers,7.997,37157,2012,"Science Fiction, Action, Adventure",the avengers
+"[12, 28, 878]",181808,en,Star Wars: The Last Jedi,53.9528,2017-12-13,Star Wars: The Last Jedi,6.755,16220,2017,"Adventure, Action, Science Fiction",star wars: the last jedi
+"[28, 12, 878]",315635,en,Spider-Man: Homecoming,49.6161,2017-07-05,Spider-Man: Homecoming,7.33,23013,2017,"Action, Adventure, Science Fiction",spider-man: homecoming
+"[10751, 16, 12, 35, 14]",330457,en,Frozen II,44.3907,2019-11-20,Frozen II,7.233,10225,2019,"Family, Animation, Adventure, Comedy, Fantasy",frozen ii
+"[12, 28, 878]",299536,en,Avengers: Infinity War,43.9318,2018-04-25,Avengers: Infinity War,8.2,31720,2018,"Adventure, Action, Science Fiction",avengers: infinity war
+"[878, 18]",335984,en,Blade Runner 2049,41.4398,2017-10-04,Blade Runner 2049,7.6,14975,2017,"Science Fiction, Drama",blade runner 2049
+"[18, 80]",278,en,The Shawshank Redemption,39.1938,1994-09-23,The Shawshank Redemption,8.718,30099,1994,"Drama, Crime",the shawshank redemption
+"[18, 80]",238,en,The Godfather,39.0674,1972-03-14,The Godfather,8.687,22743,1972,"Drama, Crime",the godfather
+"[12, 14, 10749]",50619,en,The Twilight Saga: Breaking Dawn - Part 1,37.0287,2011-11-16,The Twilight Saga: Breaking Dawn - Part 1,6.189,9219,2011,"Adventure, Fantasy, Romance",the twilight saga: breaking dawn - part 1
+"[878, 28, 12]",19995,en,Avatar,36.8933,2009-12-16,Avatar,7.601,33759,2009,"Science Fiction, Action, Adventure",avatar
+"[12, 878, 28]",299534,en,Avengers: Endgame,35.3536,2019-04-24,Avengers: Endgame,8.2,27484,2019,"Adventure, Science Fiction, Action",avengers: endgame
+"[28, 12, 878]",76600,en,Avatar: The Way of Water,35.1283,2022-12-14,Avatar: The Way of Water,7.593,13946,2022,"Action, Adventure, Science Fiction",avatar: the way of water
+"[16, 10751, 28, 35, 12, 14]",1011985,en,Kung Fu Panda 4,34.9171,2024-03-02,Kung Fu Panda 4,7.001,3446,2024,"Animation, Family, Action, Comedy, Adventure, Fantasy",kung fu panda 4
+"[28, 35, 878]",533535,en,Deadpool & Wolverine,34.2889,2024-07-24,Deadpool & Wolverine,7.557,8455,2024,"Action, Comedy, Science Fiction",deadpool & wolverine
+"[16, 12, 10751, 35, 10770]",677638,en,We Bare Bears: The Movie,34.105,2020-06-30,We Bare Bears: The Movie,7.84,844,2020,"Animation, Adventure, Family, Comedy, TV Movie",we bare bears: the movie
+"[18, 10749]",744275,en,After We Fell,33.4411,2021-09-01,After We Fell,7.01,2720,2021,"Drama, Romance",after we fell
+"[28, 80, 53]",155,en,The Dark Knight,33.0252,2008-07-16,The Dark Knight,8.5,35468,2008,"Action, Crime, Thriller",the dark knight
+"[35, 53, 18]",496243,ko,기생충,32.5355,2019-05-30,Parasite,8.494,20403,2019,"Comedy, Thriller, Drama",parasite
+"[18, 10749, 53]",1010581,es,Culpa mía,32.4589,2023-06-08,My Fault,7.751,4026,2023,"Drama, Romance, Thriller",my fault
+"[27, 35]",567609,en,Ready or Not,32.0791,2019-08-21,Ready or Not,7.048,5252,2019,"Horror, Comedy",ready or not
+"[18, 10749, 14]",402431,en,Wicked,31.7977,2024-10-16,Wicked,6.911,2959,2024,"Drama, Romance, Fantasy",wicked
+"[10749, 35, 14]",1019420,en,Irish Wish,31.5275,2024-03-14,Irish Wish,6.136,512,2024,"Romance, Comedy, Fantasy",irish wish
+"[12, 14]",671,en,Harry Potter and the Philosopher's Stone,30.8159,2001-11-16,Harry Potter and the Philosopher's Stone,7.898,29384,2001,"Adventure, Fantasy",harry potter and the philosopher's stone
+"[12, 14, 28]",120,en,The Lord of the Rings: The Fellowship of the Ring,30.4379,2001-12-18,The Lord of the Rings: The Fellowship of the Ring,8.431,27310,2001,"Adventure, Fantasy, Action",the lord of the rings: the fellowship of the ring
+"[10751, 35, 16, 878, 28]",519182,en,Despicable Me 4,30.0859,2024-06-20,Despicable Me 4,6.983,3145,2024,"Family, Comedy, Animation, Science Fiction, Action",despicable me 4
+"[878, 18, 10749]",38,en,Eternal Sunshine of the Spotless Mind,29.702,2004-03-19,Eternal Sunshine of the Spotless Mind,8.091,16200,2004,"Science Fiction, Drama, Romance",eternal sunshine of the spotless mind
+"[16, 10751, 14]",129,ja,千と千尋の神隠し,29.6973,2001-07-20,Spirited Away,8.5,18151,2001,"Animation, Family, Fantasy",spirited away
+"[53, 80, 35]",680,en,Pulp Fiction,28.2534,1994-09-10,Pulp Fiction,8.486,29975,1994,"Thriller, Crime, Comedy",pulp fiction
+"[16, 12, 10751, 35, 14]",1241982,en,Moana 2,28.1969,2024-11-21,Moana 2,6.995,3016,2024,"Animation, Adventure, Family, Comedy, Fantasy",moana 2
+"[28, 878, 12]",27205,en,Inception,27.9312,2010-07-15,Inception,8.372,38989,2010,"Action, Science Fiction, Adventure",inception
+"[28, 878]",603,en,The Matrix,27.557,1999-03-31,The Matrix,8.242,27645,1999,"Action, Science Fiction",the matrix
+[27],439079,en,The Nun,26.9679,2018-09-05,The Nun,5.902,7127,2018,Horror,the nun
+"[18, 10749]",597,en,Titanic,26.8583,1997-12-18,Titanic,7.902,26985,1997,"Drama, Romance",titanic
+"[16, 10751, 14]",14836,en,Coraline,26.7119,2009-02-05,Coraline,7.9,8860,2009,"Animation, Family, Fantasy",coraline
+"[16, 12, 35, 10751]",1022789,en,Inside Out 2,26.639,2024-06-11,Inside Out 2,7.5,6583,2024,"Animation, Adventure, Comedy, Family",inside out 2
+[99],1015606,en,Obi-Wan Kenobi: A Jedi's Return,26.4369,2022-09-07,Obi-Wan Kenobi: A Jedi's Return,6.789,1009,2022,Documentary,obi-wan kenobi: a jedi's return
+"[18, 36]",872585,en,Oppenheimer,26.3235,2023-07-19,Oppenheimer,8.033,11583,2023,"Drama, History",oppenheimer
+"[35, 80, 12]",337404,en,Cruella,25.837,2021-05-26,Cruella,7.973,9983,2021,"Comedy, Crime, Adventure",cruella
+"[16, 35, 14, 12, 10751]",808,en,Shrek,25.7804,2001-05-18,Shrek,7.759,18581,2001,"Animation, Comedy, Fantasy, Adventure, Family",shrek
+"[12, 14, 28]",122,en,The Lord of the Rings: The Return of the King,25.6308,2003-12-17,The Lord of the Rings: The Return of the King,8.496,26311,2003,"Adventure, Fantasy, Action",the lord of the rings: the return of the king
+"[27, 53, 28, 12]",396535,ko,부산행,25.3953,2016-07-20,Train to Busan,7.749,8277,2016,"Horror, Thriller, Action, Adventure",train to busan
+"[16, 10749, 18]",372058,ja,君の名は。,25.3438,2016-08-26,Your Name.,8.478,12416,2016,"Animation, Romance, Drama",your name.
+"[80, 9648, 53]",807,en,Se7en,25.1574,1995-09-22,Se7en,8.38,22879,1995,"Crime, Mystery, Thriller",se7en
+"[10751, 16, 878, 12]",1184918,en,The Wild Robot,25.1223,2024-09-12,The Wild Robot,8.307,5890,2024,"Family, Animation, Science Fiction, Adventure",the wild robot
+"[16, 28, 12, 878]",569094,en,Spider-Man: Across the Spider-Verse,25.114,2023-05-31,Spider-Man: Across the Spider-Verse,8.332,8437,2023,"Animation, Action, Adventure, Science Fiction",spider-man: across the spider-verse
+"[878, 28, 12]",912649,en,Venom: The Last Dance,25.0297,2024-10-22,Venom: The Last Dance,6.662,4106,2024,"Science Fiction, Action, Adventure",venom: the last dance
+"[12, 35, 878]",105,en,Back to the Future,24.8909,1985-07-03,Back to the Future,8.326,21606,1985,"Adventure, Comedy, Science Fiction",back to the future
+"[18, 36, 10752]",424,en,Schindler's List,24.6744,1993-12-15,Schindler's List,8.567,17306,1993,"Drama, History, War",schindler's list
+"[18, 53]",550,en,Fight Club,24.3132,1999-10-15,Fight Club,8.439,31772,1999,"Drama, Thriller",fight club
+"[16, 10751, 35, 14]",508947,en,Turning Red,24.188,2022-03-10,Turning Red,7.318,5738,2022,"Animation, Family, Comedy, Fantasy",turning red
+"[10751, 16, 10402, 12]",354912,en,Coco,23.9927,2017-10-27,Coco,8.197,20811,2017,"Family, Animation, Music, Adventure",coco
+"[28, 53]",560016,en,Monkey Man,23.9215,2024-04-03,Monkey Man,6.879,1371,2024,"Action, Thriller",monkey man
+"[35, 878, 18]",646380,en,Don't Look Up,23.4043,2021-12-08,Don't Look Up,7.066,9230,2021,"Comedy, Science Fiction, Drama",don't look up
+"[35, 12]",346698,en,Barbie,23.3158,2023-07-19,Barbie,6.928,10955,2023,"Comedy, Adventure",barbie
+"[35, 18, 10749]",13,en,Forrest Gump,23.0911,1994-06-23,Forrest Gump,8.464,29508,1994,"Comedy, Drama, Romance",forrest gump
+"[16, 10751, 12, 18, 35]",150540,en,Inside Out,22.8885,2015-06-17,Inside Out,7.91,23325,2015,"Animation, Family, Adventure, Drama, Comedy",inside out
+"[16, 10751, 18]",8587,en,The Lion King,22.6989,1994-06-15,The Lion King,8.252,19553,1994,"Animation, Family, Drama",the lion king
+"[28, 12, 878]",76341,en,Mad Max: Fury Road,22.6983,2015-05-13,Mad Max: Fury Road,7.632,23927,2015,"Action, Adventure, Science Fiction",mad max: fury road
+"[28, 12, 878]",429617,en,Spider-Man: Far From Home,22.6297,2019-06-28,Spider-Man: Far From Home,7.396,16822,2019,"Action, Adventure, Science Fiction",spider-man: far from home
+"[16, 12, 10751, 35]",269149,en,Zootopia,22.491,2016-02-11,Zootopia,7.759,17939,2016,"Animation, Adventure, Family, Comedy",zootopia
+"[28, 878, 12]",1726,en,Iron Man,22.4764,2008-04-30,Iron Man,7.657,27943,2008,"Action, Science Fiction, Adventure",iron man
+"[878, 12]",438631,en,Dune,22.3585,2021-09-15,Dune,7.78,14697,2021,"Science Fiction, Adventure",dune
+"[16, 10751, 35]",378236,en,The Emoji Movie,22.2937,2017-07-23,The Emoji Movie,5.393,3296,2017,"Animation, Family, Comedy",the emoji movie
+"[14, 18, 80]",497,en,The Green Mile,22.2417,1999-12-10,The Green Mile,8.505,19062,1999,"Fantasy, Drama, Crime",the green mile
+"[27, 12, 28]",7131,en,Van Helsing,22.1465,2004-05-03,Van Helsing,6.397,6551,2004,"Horror, Adventure, Action",van helsing
+"[28, 878, 35, 10751]",939243,en,Sonic the Hedgehog 3,21.9404,2024-12-19,Sonic the Hedgehog 3,7.616,3209,2024,"Action, Science Fiction, Comedy, Family",sonic the hedgehog 3
+"[28, 53, 878]",218,en,The Terminator,21.8329,1984-10-26,The Terminator,7.678,14445,1984,"Action, Thriller, Science Fiction",the terminator
+"[12, 28, 878]",10138,en,Iron Man 2,21.7787,2010-04-28,Iron Man 2,6.851,22230,2010,"Adventure, Action, Science Fiction",iron man 2
+"[12, 14]",672,en,Harry Potter and the Chamber of Secrets,21.6231,2002-11-13,Harry Potter and the Chamber of Secrets,7.703,23429,2002,"Adventure, Fantasy",harry potter and the chamber of secrets
+"[18, 80]",240,en,The Godfather Part II,21.5104,1974-12-20,The Godfather Part II,8.6,13779,1974,"Drama, Crime",the godfather part ii
+"[36, 18, 12]",665,en,Ben-Hur,21.3857,1959-11-18,Ben-Hur,7.883,3102,1959,"History, Drama, Adventure",ben-hur
+"[878, 12]",693134,en,Dune: Part Two,21.3789,2024-02-27,Dune: Part Two,8.1,7773,2024,"Science Fiction, Adventure",dune: part two
+"[28, 18]",361743,en,Top Gun: Maverick,21.3375,2022-05-21,Top Gun: Maverick,8.152,10754,2022,"Action, Drama",top gun: maverick
+"[18, 80]",769,en,GoodFellas,21.3361,1990-09-12,GoodFellas,8.453,14194,1990,"Drama, Crime",goodfellas
+"[12, 28, 878]",11,en,Star Wars,21.1006,1977-05-25,Star Wars,8.202,22147,1977,"Adventure, Action, Science Fiction",star wars
+"[28, 12, 878]",102382,en,The Amazing Spider-Man 2,21.0816,2014-04-16,The Amazing Spider-Man 2,6.531,14112,2014,"Action, Adventure, Science Fiction",the amazing spider-man 2
+"[28, 878]",557,en,Spider-Man,20.8282,2002-05-01,Spider-Man,7.324,20494,2002,"Action, Science Fiction",spider-man
+"[16, 28, 12, 878]",324857,en,Spider-Man: Into the Spider-Verse,20.5559,2018-12-06,Spider-Man: Into the Spider-Verse,8.393,17046,2018,"Animation, Action, Adventure, Science Fiction",spider-man: into the spider-verse
+"[14, 16, 12]",4935,ja,ハウルの動く城,20.4719,2004-09-09,Howl's Moving Castle,8.388,10951,2004,"Fantasy, Animation, Adventure",howl's moving castle
+"[27, 878, 18]",933260,en,The Substance,20.4364,2024-09-07,The Substance,7.136,5864,2024,"Horror, Science Fiction, Drama",the substance
+"[10751, 35, 16, 12]",862,en,Toy Story,20.2525,1995-11-22,Toy Story,7.971,19725,1995,"Family, Comedy, Animation, Adventure",toy story
+"[12, 14]",674,en,Harry Potter and the Goblet of Fire,20.0674,2005-11-16,Harry Potter and the Goblet of Fire,7.801,22007,2005,"Adventure, Fantasy",harry potter and the goblet of fire
+"[12, 14, 28]",121,en,The Lord of the Rings: The Two Towers,20.0247,2002-12-18,The Lord of the Rings: The Two Towers,8.415,23688,2002,"Adventure, Fantasy, Action",the lord of the rings: the two towers
+"[80, 18, 35]",106646,en,The Wolf of Wall Street,20.0214,2013-12-25,The Wolf of Wall Street,8.028,25724,2013,"Crime, Drama, Comedy",the wolf of wall street
+"[27, 9648, 878]",1091,en,The Thing,19.8113,1982-06-25,The Thing,8.069,7822,1982,"Horror, Mystery, Science Fiction",the thing
+"[18, 10402, 53]",244786,en,Whiplash,19.5482,2014-10-10,Whiplash,8.375,16481,2014,"Drama, Music, Thriller",whiplash
+[18],3558,en,"Girl, Interrupted",19.5145,1999-12-21,"Girl, Interrupted",7.564,4115,1999,Drama,"girl, interrupted"
+"[12, 14]",673,en,Harry Potter and the Prisoner of Azkaban,19.4282,2004-05-31,Harry Potter and the Prisoner of Azkaban,8.008,22993,2004,"Adventure, Fantasy",harry potter and the prisoner of azkaban
+"[28, 12, 53, 878]",524047,en,Greenland,19.3608,2020-07-29,Greenland,7.125,5207,2020,"Action, Adventure, Thriller, Science Fiction",greenland
+"[28, 12, 35]",293660,en,Deadpool,19.1984,2016-02-09,Deadpool,7.623,32553,2016,"Action, Adventure, Comedy",deadpool
+"[12, 14]",767,en,Harry Potter and the Half-Blood Prince,19.1421,2009-07-15,Harry Potter and the Half-Blood Prince,7.681,20641,2009,"Adventure, Fantasy",harry potter and the half-blood prince
+"[18, 10749, 53]",216015,en,Fifty Shades of Grey,18.9676,2015-02-11,Fifty Shades of Grey,5.9,12325,2015,"Drama, Romance, Thriller",fifty shades of grey
+"[28, 53, 18]",359410,en,Road House,18.8589,2024-03-08,Road House,6.922,2940,2024,"Action, Thriller, Drama",road house
+"[80, 18, 28]",101,fr,Léon,18.5462,1994-09-14,Léon: The Professional,8.295,15950,1994,"Crime, Drama, Action",léon: the professional
+"[12, 14]",675,en,Harry Potter and the Order of the Phoenix,18.5216,2007-07-08,Harry Potter and the Order of the Phoenix,7.672,20666,2007,"Adventure, Fantasy",harry potter and the order of the phoenix
+"[28, 18, 36]",1579,en,Apocalypto,18.4827,2006-12-07,Apocalypto,7.597,6179,2006,"Action, Drama, History",apocalypto
+"[10749, 18]",11036,en,The Notebook,18.4056,2004-06-25,The Notebook,7.888,12436,2004,"Romance, Drama",the notebook
+"[12, 14]",12445,en,Harry Potter and the Deathly Hallows: Part 2,18.3432,2011-07-12,Harry Potter and the Deathly Hallows: Part 2,8.081,21836,2011,"Adventure, Fantasy",harry potter and the deathly hallows: part 2
+"[18, 36, 10752]",324786,en,Hacksaw Ridge,18.2472,2016-10-07,Hacksaw Ridge,8.189,14731,2016,"Drama, History, War",hacksaw ridge
+"[16, 35, 10751]",585,en,"Monsters, Inc.",18.1721,2001-11-01,"Monsters, Inc.",7.849,19639,2001,"Animation, Comedy, Family","monsters, inc."
+"[80, 53, 18]",475557,en,Joker,18.1352,2019-10-01,Joker,8.126,27528,2019,"Crime, Thriller, Drama",joker
+"[18, 10749]",1156593,es,Culpa tuya,18.0735,2024-12-26,Your Fault,7.09,1530,2024,"Drama, Romance",your fault
+"[35, 18]",37165,en,The Truman Show,18.0407,1998-06-04,The Truman Show,8.152,20015,1998,"Comedy, Drama",the truman show
+"[18, 53, 9648, 28]",670,ko,올드보이,17.995,2003-11-21,Oldboy,8.239,9717,2003,"Drama, Thriller, Mystery, Action",oldboy
+"[80, 9648, 53]",414906,en,The Batman,17.99,2022-03-01,The Batman,7.658,11774,2022,"Crime, Mystery, Thriller",the batman
+"[9648, 53, 18]",210577,en,Gone Girl,17.9733,2014-10-01,Gone Girl,7.89,19808,2014,"Mystery, Thriller, Drama",gone girl
+"[53, 80, 18]",637649,en,Wrath of Man,17.9049,2021-04-22,Wrath of Man,7.58,6017,2021,"Thriller, Crime, Drama",wrath of man
+"[12, 10751, 16, 28, 35]",177572,en,Big Hero 6,17.7772,2014-10-24,Big Hero 6,7.724,16473,2014,"Adventure, Family, Animation, Action, Comedy",big hero 6
+"[28, 12, 878]",559,en,Spider-Man 3,17.7652,2007-05-01,Spider-Man 3,6.454,15088,2007,"Action, Adventure, Science Fiction",spider-man 3
+"[12, 10751, 14]",411,en,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",17.7196,2005-12-07,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",7.136,11415,2005,"Adventure, Family, Fantasy","the chronicles of narnia: the lion, the witch and the wardrobe"
+"[18, 10749]",9769,en,Lolita,17.7181,1997-09-27,Lolita,7.107,1944,1997,"Drama, Romance",lolita
+"[16, 10751, 12, 14, 10749]",812,en,Aladdin,17.6968,1992-11-25,Aladdin,7.653,11936,1992,"Animation, Family, Adventure, Fantasy, Romance",aladdin
+"[16, 10751, 12]",12,en,Finding Nemo,17.6882,2003-05-30,Finding Nemo,7.817,20421,2003,"Animation, Family, Adventure",finding nemo
+"[28, 12, 878]",99861,en,Avengers: Age of Ultron,17.5868,2015-04-22,Avengers: Age of Ultron,7.3,24272,2015,"Action, Adventure, Science Fiction",avengers: age of ultron
+"[12, 28, 14]",564,en,The Mummy,17.5607,1999-04-16,The Mummy,6.964,9873,1999,"Adventure, Action, Fantasy",the mummy
+"[18, 9648, 878]",1124,en,The Prestige,17.5606,2006-10-17,The Prestige,8.206,17421,2006,"Drama, Mystery, Science Fiction",the prestige
+"[12, 14]",12444,en,Harry Potter and the Deathly Hallows: Part 1,17.422,2010-11-17,Harry Potter and the Deathly Hallows: Part 1,7.735,20242,2010,"Adventure, Fantasy",harry potter and the deathly hallows: part 1
+"[28, 12, 14]",122917,en,The Hobbit: The Battle of the Five Armies,17.4153,2014-12-10,The Hobbit: The Battle of the Five Armies,7.332,15243,2014,"Action, Adventure, Fantasy",the hobbit: the battle of the five armies
+"[14, 18, 10749]",8966,en,Twilight,17.3672,2008-11-20,Twilight,6.28,14314,2008,"Fantasy, Drama, Romance",twilight
+"[12, 14, 28]",22,en,Pirates of the Caribbean: The Curse of the Black Pearl,17.3465,2003-07-09,Pirates of the Caribbean: The Curse of the Black Pearl,7.821,22053,2003,"Adventure, Fantasy, Action",pirates of the caribbean: the curse of the black pearl
+"[18, 28, 12, 36, 10752]",1495,en,Kingdom of Heaven,17.2088,2005-05-03,Kingdom of Heaven,7.021,4859,2005,"Drama, Action, Adventure, History, War",kingdom of heaven
+"[27, 878]",348,en,Alien,17.1925,1979-05-25,Alien,8.2,16196,1979,"Horror, Science Fiction",alien
+"[28, 12, 878]",68721,en,Iron Man 3,17.0062,2013-04-18,Iron Man 3,6.931,23290,2013,"Action, Adventure, Science Fiction",iron man 3
+"[18, 10749]",2288,en,Closer,16.9138,2004-12-03,Closer,6.832,3714,2004,"Drama, Romance",closer
+"[16, 12, 14, 10751]",823219,lv,Straume,16.9109,2024-08-29,Flow,8.09,2737,2024,"Animation, Adventure, Fantasy, Family",flow
+"[28, 18, 12]",98,en,Gladiator,16.8705,2000-05-04,Gladiator,8.224,20717,2000,"Action, Drama, Adventure",gladiator
+"[12, 14, 28]",58,en,Pirates of the Caribbean: Dead Man's Chest,16.8656,2006-07-06,Pirates of the Caribbean: Dead Man's Chest,7.374,17014,2006,"Adventure, Fantasy, Action",pirates of the caribbean: dead man's chest
+"[35, 14]",214756,en,Ted 2,16.8463,2015-06-25,Ted 2,6.316,7920,2015,"Comedy, Fantasy",ted 2
+"[28, 12, 878]",1930,en,The Amazing Spider-Man,16.8211,2012-06-23,The Amazing Spider-Man,6.732,18377,2012,"Action, Adventure, Science Fiction",the amazing spider-man
+"[28, 80, 53]",385687,en,Fast X,16.8099,2023-05-17,Fast X,7.001,6257,2023,"Action, Crime, Thriller",fast x
+"[35, 10749]",259694,en,How to Be Single,16.7703,2016-02-08,How to Be Single,6.255,3339,2016,"Comedy, Romance",how to be single
+[18],389,en,12 Angry Men,16.6128,1957-04-10,12 Angry Men,8.559,9884,1957,Drama,12 angry men
+"[10751, 35, 12, 16]",412117,en,The Secret Life of Pets 2,16.5946,2019-05-24,The Secret Life of Pets 2,6.949,3296,2019,"Family, Comedy, Adventure, Animation",the secret life of pets 2
+"[16, 10751, 878]",10681,en,WALL·E,16.5256,2008-06-22,WALL·E,8.1,20099,2008,"Animation, Family, Science Fiction",wall·e
+"[878, 18, 12]",286217,en,The Martian,16.5192,2015-09-30,The Martian,7.694,21036,2015,"Science Fiction, Drama, Adventure",the martian
+"[18, 36]",6844,en,The Ten Commandments,16.5177,1956-10-05,The Ten Commandments,7.772,1833,1956,"Drama, History",the ten commandments
+"[28, 35, 80]",573435,en,Bad Boys: Ride or Die,16.5103,2024-06-05,Bad Boys: Ride or Die,7.328,3278,2024,"Action, Comedy, Crime",bad boys: ride or die
+"[28, 12, 878]",14161,en,2012,16.4833,2009-10-10,2012,5.873,12650,2009,"Action, Adventure, Science Fiction",2012
+"[878, 12, 28]",447365,en,Guardians of the Galaxy Vol. 3,16.4403,2023-05-03,Guardians of the Galaxy Vol. 3,7.9,8171,2023,"Science Fiction, Adventure, Action",guardians of the galaxy vol. 3
+"[53, 18, 10749]",290098,ko,아가씨,16.4019,2016-06-01,The Handmaiden,8.189,4257,2016,"Thriller, Drama, Romance",the handmaiden
+"[14, 12, 28, 9648]",35552,fr,Les Aventures extraordinaires d'Adèle Blanc-Sec,16.3907,2010-04-09,The Extraordinary Adventures of Adèle Blanc-Sec,6.246,1471,2010,"Fantasy, Adventure, Action, Mystery",the extraordinary adventures of adèle blanc-sec
+"[12, 10751, 16]",762509,en,Mufasa: The Lion King,16.3813,2024-12-18,Mufasa: The Lion King,7.31,2597,2024,"Adventure, Family, Animation",mufasa: the lion king
+[35],4247,en,Scary Movie,16.3511,2000-07-07,Scary Movie,6.389,7667,2000,Comedy,scary movie
+"[16, 10751, 12, 14]",109445,en,Frozen,16.3253,2013-11-20,Frozen,7.248,17481,2013,"Animation, Family, Adventure, Fantasy",frozen
+[37],429,it,"Il buono, il brutto, il cattivo",16.2905,1966-12-23,"The Good, the Bad and the Ugly",8.468,9542,1966,Western,"the good, the bad and the ugly"
+"[18, 35, 10749]",82693,en,Silver Linings Playbook,16.2837,2012-11-16,Silver Linings Playbook,7.149,12580,2012,"Drama, Comedy, Romance",silver linings playbook
+"[28, 80, 18]",111,en,Scarface,16.2184,1983-12-09,Scarface,8.155,12885,1983,"Action, Crime, Drama",scarface
+"[27, 53, 12]",578,en,Jaws,16.2077,1975-06-20,Jaws,7.681,11437,1975,"Horror, Thriller, Adventure",jaws
+"[10752, 18, 28]",228150,en,Fury,16.1897,2014-10-15,Fury,7.543,12835,2014,"War, Drama, Action",fury
+[18],510,en,One Flew Over the Cuckoo's Nest,16.0397,1975-11-19,One Flew Over the Cuckoo's Nest,8.412,11342,1975,Drama,one flew over the cuckoo's nest
+"[27, 53, 9648]",539,en,Psycho,15.9956,1960-06-22,Psycho,8.416,10912,1960,"Horror, Thriller, Mystery",psycho
+"[12, 18, 28]",246,ja,座頭市,15.9721,2003-09-06,Zatoichi,7.242,948,2003,"Adventure, Drama, Action",zatoichi
+"[80, 18, 9648, 53]",12201,en,Edge of Darkness,15.918,2010-01-28,Edge of Darkness,6.409,1695,2010,"Crime, Drama, Mystery, Thriller",edge of darkness
+"[35, 18, 53]",466272,en,Once Upon a Time... in Hollywood,15.913,2019-07-24,Once Upon a Time... in Hollywood,7.424,14716,2019,"Comedy, Drama, Thriller",once upon a time... in hollywood
+"[12, 28, 878]",271110,en,Captain America: Civil War,15.8993,2016-04-27,Captain America: Civil War,7.447,23890,2016,"Adventure, Action, Science Fiction",captain america: civil war
+"[18, 36]",1396,ru,Зеркало,15.8693,1975-03-07,Mirror,7.953,1081,1975,"Drama, History",mirror
+"[16, 35, 10751, 12]",14160,en,Up,15.8531,2009-05-28,Up,7.959,21518,2009,"Animation, Comedy, Family, Adventure",up
+"[53, 28, 80]",156022,en,The Equalizer,15.8231,2014-09-24,The Equalizer,7.283,9848,2014,"Thriller, Action, Crime",the equalizer
+"[12, 14, 16]",128,ja,もののけ姫,15.8231,1997-07-12,Princess Mononoke,8.324,8893,1997,"Adventure, Fantasy, Animation",princess mononoke
+"[28, 12, 14]",209112,en,Batman v Superman: Dawn of Justice,15.7934,2016-03-23,Batman v Superman: Dawn of Justice,5.992,18867,2016,"Action, Adventure, Fantasy",batman v superman: dawn of justice
+"[35, 18, 10749]",313369,en,La La Land,15.7719,2016-12-01,La La Land,7.899,17978,2016,"Comedy, Drama, Romance",la la land
+"[16, 10751, 18, 35, 28]",9502,en,Kung Fu Panda,15.76,2008-06-04,Kung Fu Panda,7.318,12523,2008,"Animation, Family, Drama, Comedy, Action",kung fu panda
+"[18, 53, 9648]",11324,en,Shutter Island,15.7555,2010-02-14,Shutter Island,8.198,25647,2010,"Drama, Thriller, Mystery",shutter island
+"[16, 10751, 35]",10193,en,Toy Story 3,15.7448,2010-06-16,Toy Story 3,7.8,15612,2010,"Animation, Family, Comedy",toy story 3
+"[80, 27, 9648]",4232,en,Scream,15.6279,1996-12-20,Scream,7.4,7846,1996,"Crime, Horror, Mystery",scream
+"[28, 53, 80]",603692,en,John Wick: Chapter 4,15.6097,2023-03-21,John Wick: Chapter 4,7.707,7820,2023,"Action, Thriller, Crime",john wick: chapter 4
+"[18, 10749]",666277,en,Past Lives,15.5456,2023-06-02,Past Lives,7.715,2260,2023,"Drama, Romance",past lives
+"[28, 53, 878]",280,en,Terminator 2: Judgment Day,15.5261,1991-07-03,Terminator 2: Judgment Day,8.144,14117,1991,"Action, Thriller, Science Fiction",terminator 2: judgment day
+"[36, 18, 53, 10752]",205596,en,The Imitation Game,15.4707,2014-11-14,The Imitation Game,7.985,17957,2014,"History, Drama, Thriller, War",the imitation game
+"[28, 12, 53]",539972,en,Kraven the Hunter,15.4173,2024-12-11,Kraven the Hunter,6.432,2280,2024,"Action, Adventure, Thriller",kraven the hunter
+"[18, 53, 80]",59,en,A History of Violence,15.3194,2005-09-23,A History of Violence,7.165,3672,2005,"Drama, Thriller, Crime",a history of violence
+"[28, 878, 35]",284053,en,Thor: Ragnarok,15.3156,2017-10-02,Thor: Ragnarok,7.581,21874,2017,"Action, Science Fiction, Comedy",thor: ragnarok
+"[35, 80]",12153,en,White Chicks,15.236,2004-06-23,White Chicks,6.93,4454,2004,"Comedy, Crime",white chicks
+"[80, 18, 28]",949,en,Heat,15.2347,1995-12-15,Heat,7.9,8229,1995,"Crime, Drama, Action",heat
+"[18, 35, 10749]",43347,en,Love & Other Drugs,15.1981,2010-11-22,Love & Other Drugs,7.038,5544,2010,"Drama, Comedy, Romance",love & other drugs
+"[16, 35, 10751, 14]",2062,en,Ratatouille,15.1013,2007-06-28,Ratatouille,7.838,18334,2007,"Animation, Comedy, Family, Fantasy",ratatouille
+"[28, 18]",346,ja,七人の侍,14.9663,1954-04-26,Seven Samurai,8.452,4175,1954,"Action, Drama",seven samurai
+"[27, 878]",945961,en,Alien: Romulus,14.9301,2024-08-13,Alien: Romulus,7.2,4435,2024,"Horror, Science Fiction",alien: romulus
+"[12, 14, 28]",49051,en,The Hobbit: An Unexpected Journey,14.8492,2012-12-12,The Hobbit: An Unexpected Journey,7.37,19500,2012,"Adventure, Fantasy, Action",the hobbit: an unexpected journey
+"[18, 53, 10752]",16869,en,Inglourious Basterds,14.8395,2009-08-02,Inglourious Basterds,8.217,23990,2009,"Drama, Thriller, War",inglourious basterds
+"[27, 53, 18]",346364,en,It,14.8367,2017-09-06,It,7.239,20209,2017,"Horror, Thriller, Drama",it
+"[18, 10749]",1391,es,Y tu mamá también,14.8203,2001-06-08,Y Tu Mamá También,7.413,1722,2001,"Drama, Romance",y tu mamá también
+"[878, 12, 28]",283995,en,Guardians of the Galaxy Vol. 2,14.604,2017-04-19,Guardians of the Galaxy Vol. 2,7.608,22795,2017,"Science Fiction, Adventure, Action",guardians of the galaxy vol. 2
+"[16, 35, 10751]",863,en,Toy Story 2,14.5927,1999-10-30,Toy Story 2,7.605,14786,1999,"Animation, Comedy, Family",toy story 2
+"[16, 12, 14, 35, 10751]",315162,en,Puss in Boots: The Last Wish,14.5182,2022-12-07,Puss in Boots: The Last Wish,8.201,8723,2022,"Animation, Adventure, Fantasy, Comedy, Family",puss in boots: the last wish
+"[28, 878, 12]",68726,en,Pacific Rim,14.4602,2013-07-11,Pacific Rim,6.918,13238,2013,"Action, Science Fiction, Adventure",pacific rim
+"[18, 10749]",337167,en,Fifty Shades Freed,14.4343,2018-01-17,Fifty Shades Freed,6.674,8320,2018,"Drama, Romance",fifty shades freed
+"[18, 10749]",4348,en,Pride & Prejudice,14.3405,2005-09-16,Pride & Prejudice,8.0,8690,2005,"Drama, Romance",pride & prejudice
+[53],985939,en,Fall,14.3227,2022-08-11,Fall,7.106,4456,2022,Thriller,fall
+"[80, 18]",103,en,Taxi Driver,14.2984,1976-02-09,Taxi Driver,8.128,13316,1976,"Crime, Drama",taxi driver
+"[10752, 28, 36]",652,en,Troy,14.2919,2004-05-13,Troy,7.167,10937,2004,"War, Action, History",troy
+"[28, 878, 12]",786892,en,Furiosa: A Mad Max Saga,14.2408,2024-05-22,Furiosa: A Mad Max Saga,7.452,4768,2024,"Action, Science Fiction, Adventure",furiosa: a mad max saga
+"[878, 28]",335983,en,Venom,14.2305,2018-09-28,Venom,6.825,17125,2018,"Science Fiction, Action",venom
+"[99, 18]",1430,en,Bowling for Columbine,14.1479,2002-10-09,Bowling for Columbine,7.511,1678,2002,"Documentary, Drama",bowling for columbine
+"[27, 53]",381288,en,Split,14.1217,2017-01-19,Split,7.341,18229,2017,"Horror, Thriller",split
+"[27, 9648]",646385,en,Scream,14.0263,2022-01-12,Scream,6.686,3812,2022,"Horror, Mystery",scream
+"[878, 9648, 12]",62,en,2001: A Space Odyssey,13.9526,1968-04-02,2001: A Space Odyssey,8.054,12473,1968,"Science Fiction, Mystery, Adventure",2001: a space odyssey
+"[14, 28, 35]",616037,en,Thor: Love and Thunder,13.93,2022-07-06,Thor: Love and Thunder,6.373,8476,2022,"Fantasy, Action, Comedy",thor: love and thunder
+"[80, 27, 53]",73861,sr,Srpski film,13.9051,2010-01-06,A Serbian Film,5.4,2190,2010,"Crime, Horror, Thriller",a serbian film
+"[28, 80, 53]",273481,en,Sicario,13.8977,2015-09-17,Sicario,7.417,9452,2015,"Action, Crime, Thriller",sicario
+"[28, 80, 53]",337339,en,The Fate of the Furious,13.8932,2017-04-12,The Fate of the Furious,6.856,10759,2017,"Action, Crime, Thriller",the fate of the furious
+"[28, 12, 878]",823464,en,Godzilla x Kong: The New Empire,13.8788,2024-03-27,Godzilla x Kong: The New Empire,7.047,4588,2024,"Action, Adventure, Science Fiction",godzilla x kong: the new empire
+"[16, 10751, 12]",38757,en,Tangled,13.8776,2010-11-24,Tangled,7.61,12289,2010,"Animation, Family, Adventure",tangled
+"[27, 53]",138843,en,The Conjuring,13.7779,2013-07-18,The Conjuring,7.537,12609,2013,"Horror, Thriller",the conjuring
+"[10749, 53]",1097549,en,Babygirl,13.7655,2024-12-25,Babygirl,5.692,1169,2024,"Romance, Thriller",babygirl
+"[27, 53]",694,en,The Shining,13.7325,1980-05-23,The Shining,8.205,18774,1980,"Horror, Thriller",the shining
+"[10749, 10751, 16, 14]",10020,en,Beauty and the Beast,13.7185,1991-10-22,Beauty and the Beast,7.725,10601,1991,"Romance, Family, Animation, Fantasy",beauty and the beast
+"[28, 9648, 878, 53]",198663,en,The Maze Runner,13.7063,2014-09-10,The Maze Runner,7.189,17987,2014,"Action, Mystery, Science Fiction, Thriller",the maze runner
+[35],1621,en,Trading Places,13.6544,1983-06-07,Trading Places,7.23,3615,1983,Comedy,trading places
+[18],207,en,Dead Poets Society,13.6523,1989-06-02,Dead Poets Society,8.3,12462,1989,Drama,dead poets society
+"[878, 28, 12]",1724,en,The Incredible Hulk,13.6252,2008-06-12,The Incredible Hulk,6.233,12592,2008,"Science Fiction, Action, Adventure",the incredible hulk
+"[878, 28, 12, 53]",106,en,Predator,13.589,1987-06-12,Predator,7.5,8975,1987,"Science Fiction, Action, Adventure, Thriller",predator
+"[10752, 18, 36]",857,en,Saving Private Ryan,13.5489,1998-07-24,Saving Private Ryan,8.223,17051,1998,"War, Drama, History",saving private ryan
+"[80, 53, 37]",6977,en,No Country for Old Men,13.5466,2007-11-09,No Country for Old Men,7.95,13168,2007,"Crime, Thriller, Western",no country for old men
+"[14, 16, 10751]",8392,ja,となりのトトロ,13.5338,1988-04-16,My Neighbor Totoro,8.062,8721,1988,"Fantasy, Animation, Family",my neighbor totoro
+"[28, 35, 80, 14]",9470,cn,功夫,13.5157,2004-02-10,Kung Fu Hustle,7.49,3128,2004,"Action, Comedy, Crime, Fantasy",kung fu hustle
+"[18, 878, 9648]",329865,en,Arrival,13.4657,2016-11-10,Arrival,7.624,19173,2016,"Drama, Science Fiction, Mystery",arrival
+"[16, 10751, 35, 14, 10749]",809,en,Shrek 2,13.4586,2004-05-19,Shrek 2,7.31,13327,2004,"Animation, Family, Comedy, Fantasy, Romance",shrek 2
+"[12, 28, 878]",333339,en,Ready Player One,13.398,2018-03-28,Ready Player One,7.585,16751,2018,"Adventure, Action, Science Fiction",ready player one
+"[18, 36]",568,en,Apollo 13,13.3924,1995-06-30,Apollo 13,7.455,5828,1995,"Drama, History",apollo 13
+"[10751, 16, 35, 12]",82690,en,Wreck-It Ralph,13.3917,2012-11-01,Wreck-It Ralph,7.355,12994,2012,"Family, Animation, Comedy, Adventure",wreck-it ralph
+"[28, 878, 18]",39254,en,Real Steel,13.3794,2011-09-28,Real Steel,7.069,9004,2011,"Action, Science Fiction, Drama",real steel
+"[27, 53, 878]",170,en,28 Days Later,13.3352,2002-10-31,28 Days Later,7.241,8371,2002,"Horror, Thriller, Science Fiction",28 days later
+"[28, 53, 12]",575264,en,Mission: Impossible - Dead Reckoning Part One,13.3241,2023-07-08,Mission: Impossible - Dead Reckoning Part One,7.5,5034,2023,"Action, Thriller, Adventure",mission: impossible - dead reckoning part one
+"[14, 28, 12]",453395,en,Doctor Strange in the Multiverse of Madness,13.3183,2022-05-04,Doctor Strange in the Multiverse of Madness,7.225,10196,2022,"Fantasy, Action, Adventure",doctor strange in the multiverse of madness
+"[18, 80]",598,pt,Cidade de Deus,13.2928,2002-08-30,City of God,8.429,8097,2002,"Drama, Crime",city of god
+"[28, 53, 80]",458156,en,John Wick: Chapter 3 - Parabellum,13.2819,2019-05-15,John Wick: Chapter 3 - Parabellum,7.438,11621,2019,"Action, Thriller, Crime",john wick: chapter 3 - parabellum
+"[28, 12, 878]",284054,en,Black Panther,13.2724,2018-02-13,Black Panther,7.4,23346,2018,"Action, Adventure, Science Fiction",black panther
+"[10751, 35, 16, 878, 80]",20352,en,Despicable Me,13.2318,2010-07-08,Despicable Me,7.257,15968,2010,"Family, Comedy, Animation, Science Fiction, Crime",despicable me
+"[10402, 18]",424694,en,Bohemian Rhapsody,13.2295,2018-10-24,Bohemian Rhapsody,7.959,17658,2018,"Music, Drama",bohemian rhapsody
+"[18, 37]",68718,en,Django Unchained,13.2132,2012-12-25,Django Unchained,8.19,27823,2012,"Drama, Western",django unchained
+"[18, 35]",77338,fr,Intouchables,13.2032,2011-11-02,The Intouchables,8.269,18285,2011,"Drama, Comedy",the intouchables
+"[27, 53, 80]",934433,en,Scream VI,13.1948,2023-03-08,Scream VI,6.951,3125,2023,"Horror, Thriller, Crime",scream vi
+"[28, 80]",24,en,Kill Bill: Vol. 1,13.1387,2003-10-10,Kill Bill: Vol. 1,7.972,18765,2003,"Action, Crime",kill bill: vol. 1
+"[28, 12, 878]",545611,en,Everything Everywhere All at Once,13.0896,2022-03-24,Everything Everywhere All at Once,7.721,7828,2022,"Action, Adventure, Science Fiction",everything everywhere all at once
+"[28, 27, 878, 53]",72190,en,World War Z,13.0215,2013-06-19,World War Z,6.825,16389,2013,"Action, Horror, Science Fiction, Thriller",world war z
+"[18, 28]",480530,en,Creed II,13.0143,2018-11-21,Creed II,7.028,5745,2018,"Drama, Action",creed ii
+"[18, 35, 36]",490132,en,Green Book,13.004,2018-11-16,Green Book,8.223,12743,2018,"Drama, Comedy, History",green book
+"[10402, 35, 10749, 18]",843527,en,The Idea of You,12.9657,2024-05-02,The Idea of You,7.304,1900,2024,"Music, Comedy, Romance, Drama",the idea of you
+"[16, 10751, 14, 12, 35, 10749]",11970,en,Hercules,12.9436,1997-06-13,Hercules,7.491,7869,1997,"Animation, Family, Fantasy, Adventure, Comedy, Romance",hercules
+"[12, 14, 10749, 10751]",420817,en,Aladdin,12.8974,2019-05-22,Aladdin,7.086,10558,2019,"Adventure, Fantasy, Romance, Family",aladdin
+"[53, 80, 10770]",801335,en,Girl in the Basement,12.8128,2021-02-27,Girl in the Basement,7.57,841,2021,"Thriller, Crime, TV Movie",girl in the basement
+"[12, 14, 28]",285,en,Pirates of the Caribbean: At World's End,12.8113,2007-05-19,Pirates of the Caribbean: At World's End,7.266,15338,2007,"Adventure, Fantasy, Action",pirates of the caribbean: at world's end
+[35],18785,en,The Hangover,12.8005,2009-06-02,The Hangover,7.33,17965,2009,Comedy,the hangover
+"[12, 16, 10751]",105864,en,The Good Dinosaur,12.7995,2015-11-14,The Good Dinosaur,6.7,5934,2015,"Adventure, Animation, Family",the good dinosaur
+"[35, 10749]",2105,en,American Pie,12.7545,1999-07-09,American Pie,6.603,8223,1999,"Comedy, Romance",american pie
+"[10752, 28, 18]",374720,en,Dunkirk,12.7211,2017-07-19,Dunkirk,7.45,17453,2017,"War, Action, Drama",dunkirk
+"[27, 9648, 53]",493922,en,Hereditary,12.6904,2018-06-07,Hereditary,7.294,8467,2018,"Horror, Mystery, Thriller",hereditary
+"[16, 10751, 10749, 14, 35]",976573,en,Elemental,12.666,2023-06-14,Elemental,7.578,5231,2023,"Animation, Family, Romance, Fantasy, Comedy",elemental
+"[12, 28, 878]",1891,en,The Empire Strikes Back,12.6437,1980-05-20,The Empire Strikes Back,8.393,18254,1980,"Adventure, Action, Science Fiction",the empire strikes back
+"[28, 35, 12]",436969,en,The Suicide Squad,12.6398,2021-07-28,The Suicide Squad,7.463,9491,2021,"Action, Comedy, Adventure",the suicide squad
+"[28, 12, 14]",297762,en,Wonder Woman,12.63,2017-05-30,Wonder Woman,7.209,20807,2017,"Action, Adventure, Fantasy",wonder woman
+"[16, 28, 14]",810693,ja,劇場版 呪術廻戦 0,12.6271,2021-12-24,Jujutsu Kaisen 0,8.1,1696,2021,"Animation, Action, Fantasy",jujutsu kaisen 0
+"[16, 18, 10749]",378064,ja,映画 聲の形,12.6248,2016-09-17,A Silent Voice: The Movie,8.387,4429,2016,"Animation, Drama, Romance",a silent voice: the movie
+"[18, 35, 10749]",1064213,en,Anora,12.5644,2024-10-14,Anora,7.06,3077,2024,"Drama, Comedy, Romance",anora
+"[53, 28, 878]",766507,en,Prey,12.5497,2022-08-02,Prey,7.662,7613,2022,"Thriller, Action, Science Fiction",prey
+"[18, 80]",311,en,Once Upon a Time in America,12.5472,1984-05-23,Once Upon a Time in America,8.384,5973,1984,"Drama, Crime",once upon a time in america
+"[18, 10752]",423,en,The Pianist,12.5412,2002-09-17,The Pianist,8.376,10040,2002,"Drama, War",the pianist
+"[16, 35, 10751, 12]",425,en,Ice Age,12.5286,2002-03-14,Ice Age,7.37,14178,2002,"Animation, Comedy, Family, Adventure",ice age
+"[28, 35, 12]",383498,en,Deadpool 2,12.5259,2018-05-15,Deadpool 2,7.49,19085,2018,"Action, Comedy, Adventure",deadpool 2
+"[28, 80, 18, 53]",49026,en,The Dark Knight Rises,12.5182,2012-07-17,The Dark Knight Rises,7.793,24179,2012,"Action, Crime, Drama, Thriller",the dark knight rises
+"[878, 28, 12]",580489,en,Venom: Let There Be Carnage,12.5156,2021-09-30,Venom: Let There Be Carnage,6.7,11094,2021,"Science Fiction, Action, Adventure",venom: let there be carnage
+"[12, 28, 14]",1865,en,Pirates of the Caribbean: On Stranger Tides,12.4783,2011-05-15,Pirates of the Caribbean: On Stranger Tides,6.565,14847,2011,"Adventure, Action, Fantasy",pirates of the caribbean: on stranger tides
+"[16, 10751, 12]",10674,en,Mulan,12.4768,1998-06-18,Mulan,7.901,10340,1998,"Animation, Family, Adventure",mulan
+"[878, 28, 12]",18,fr,Le Cinquième Élément,12.4761,1997-05-02,The Fifth Element,7.566,11579,1997,"Science Fiction, Action, Adventure",the fifth element
+"[80, 18, 53]",242582,en,Nightcrawler,12.4603,2014-10-23,Nightcrawler,7.709,11619,2014,"Crime, Drama, Thriller",nightcrawler
+"[12, 14, 28]",10195,en,Thor,12.4546,2011-04-21,Thor,6.769,22213,2011,"Adventure, Fantasy, Action",thor
+[18],312221,en,Creed,12.4526,2015-11-25,Creed,7.4,7898,2015,Drama,creed
+[18],489,en,Good Will Hunting,12.4373,1997-12-05,Good Will Hunting,8.159,13698,1997,Drama,good will hunting
+"[18, 80]",640,en,Catch Me If You Can,12.42,2002-12-16,Catch Me If You Can,7.978,16935,2002,"Drama, Crime",catch me if you can
+"[28, 12, 16, 10751]",9806,en,The Incredibles,12.3532,2004-10-27,The Incredibles,7.722,18763,2004,"Action, Adventure, Animation, Family",the incredibles
+[35],38365,en,Grown Ups,12.3134,2010-06-24,Grown Ups,6.398,6610,2010,Comedy,grown ups
+"[12, 28, 878]",181812,en,Star Wars: The Rise of Skywalker,12.2942,2019-12-18,Star Wars: The Rise of Skywalker,6.272,10739,2019,"Adventure, Action, Science Fiction",star wars: the rise of skywalker
+"[18, 35]",10625,en,Mean Girls,12.2804,2004-04-30,Mean Girls,7.2,9381,2004,"Drama, Comedy",mean girls
+"[18, 53, 9648]",345,en,Eyes Wide Shut,12.2008,1999-07-16,Eyes Wide Shut,7.487,6955,1999,"Drama, Thriller, Mystery",eyes wide shut
+"[18, 10749]",537915,en,After,12.1898,2019-04-11,After,7.109,8500,2019,"Drama, Romance",after
+"[35, 18]",120467,en,The Grand Budapest Hotel,12.1827,2014-02-26,The Grand Budapest Hotel,8.031,15948,2014,"Comedy, Drama",the grand budapest hotel
+"[28, 18, 878]",263115,en,Logan,12.1541,2017-02-28,Logan,7.819,20273,2017,"Action, Drama, Science Fiction",logan
+"[28, 53, 878]",679,en,Aliens,12.1348,1986-07-18,Aliens,7.961,10722,1986,"Action, Thriller, Science Fiction",aliens
+"[18, 80, 28]",272,en,Batman Begins,12.1329,2005-06-10,Batman Begins,7.722,22432,2005,"Drama, Crime, Action",batman begins
+"[28, 12, 878]",497698,en,Black Widow,12.1086,2021-07-07,Black Widow,7.171,11130,2021,"Action, Adventure, Science Fiction",black widow
+"[18, 53, 80]",1422,en,The Departed,12.0752,2006-10-04,The Departed,8.16,16050,2006,"Drama, Thriller, Crime",the departed
+"[10751, 35, 12, 16]",940551,en,Migration,12.0606,2023-12-06,Migration,7.3,2211,2023,"Family, Comedy, Adventure, Animation",migration
+"[12, 18, 10751, 16]",420818,en,The Lion King,12.0406,2019-07-12,The Lion King,7.098,10693,2019,"Adventure, Drama, Family, Animation",the lion king
+"[12, 14, 16, 10751]",26505,fr,Arthur et la vengeance de Maltazard,12.0338,2009-11-26,Arthur and the Revenge of Maltazard,5.743,1765,2009,"Adventure, Fantasy, Animation, Family",arthur and the revenge of maltazard
+"[12, 18, 28, 36, 10752]",10047,en,Joan of Arc,12.0323,1999-10-27,The Messenger: The Story of Joan of Arc,6.407,1577,1999,"Adventure, Drama, Action, History, War",the messenger: the story of joan of arc
+"[12, 16, 35, 10751, 14]",11688,en,The Emperor's New Groove,12.0241,2000-12-15,The Emperor's New Groove,7.6,7234,2000,"Adventure, Animation, Comedy, Family, Fantasy",the emperor's new groove
+"[16, 12, 35, 10751]",953,en,Madagascar,12.0238,2005-05-25,Madagascar,6.921,11633,2005,"Animation, Adventure, Comedy, Family",madagascar
+"[35, 80, 9648]",546554,en,Knives Out,12.0001,2019-11-27,Knives Out,7.839,13870,2019,"Comedy, Crime, Mystery",knives out
+"[18, 35]",615777,en,Babylon,11.9886,2022-12-22,Babylon,7.361,3721,2022,"Drama, Comedy",babylon
+"[16, 12, 35, 10751]",920,en,Cars,11.9773,2006-06-08,Cars,7.024,15010,2006,"Animation, Adventure, Comedy, Family",cars
+"[53, 18, 80]",1359,en,American Psycho,11.9704,2000-04-13,American Psycho,7.407,12158,2000,"Thriller, Drama, Crime",american psycho
+"[14, 12, 28]",284052,en,Doctor Strange,11.9543,2016-10-25,Doctor Strange,7.418,23297,2016,"Fantasy, Adventure, Action",doctor strange
+"[35, 18, 10749]",19404,hi,दिलवाले दुल्हनिया ले जायेंगे,11.9311,1995-10-20,Dilwale Dulhania Le Jayenge,8.515,4572,1995,"Comedy, Drama, Romance",dilwale dulhania le jayenge
+"[10749, 878, 18]",152601,en,Her,11.9297,2013-12-18,Her,7.841,15193,2013,"Romance, Science Fiction, Drama",her
+"[18, 10752]",28,en,Apocalypse Now,11.9029,1979-05-19,Apocalypse Now,8.269,8993,1979,"Drama, War",apocalypse now
+"[16, 12, 14, 18, 10751]",508883,ja,君たちはどう生きるか,11.8871,2023-07-14,The Boy and the Heron,7.407,2583,2023,"Animation, Adventure, Fantasy, Drama, Family",the boy and the heron
+"[36, 18]",82695,en,Les Misérables,11.8819,2012-12-18,Les Misérables,7.308,5546,2012,"History, Drama",les misérables
+"[35, 14]",72105,en,Ted,11.8601,2012-06-29,Ted,6.449,13072,2012,"Comedy, Fantasy",ted
+"[18, 53, 80]",64690,en,Drive,11.8445,2011-09-15,Drive,7.584,13501,2011,"Drama, Thriller, Crime",drive
+"[10751, 35, 16, 12]",301528,en,Toy Story 4,11.8424,2019-06-19,Toy Story 4,7.466,10444,2019,"Family, Comedy, Animation, Adventure",toy story 4
+"[18, 28, 53]",7485,en,Shooter,11.8377,2007-03-22,Shooter,7.116,5387,2007,"Drama, Action, Thriller",shooter
+"[878, 18, 53]",78,en,Blade Runner,11.7995,1982-06-25,Blade Runner,7.94,14855,1982,"Science Fiction, Drama, Thriller",blade runner
+"[18, 9648, 53]",619979,en,Deep Water,11.7929,2022-03-17,Deep Water,5.818,1614,2022,"Drama, Mystery, Thriller",deep water
+"[18, 10749]",5879,ja,愛のコリーダ,11.7874,1976-09-15,In the Realm of the Senses,6.579,720,1976,"Drama, Romance",in the realm of the senses
+"[9648, 53, 18]",745,en,The Sixth Sense,11.7799,1999-08-06,The Sixth Sense,7.95,12732,1999,"Mystery, Thriller, Drama",the sixth sense
+"[16, 10751, 14, 18]",16859,ja,魔女の宅急便,11.7396,1989-07-29,Kiki's Delivery Service,7.8,4516,1989,"Animation, Family, Fantasy, Drama",kiki's delivery service
+"[28, 35, 53]",718930,en,Bullet Train,11.7326,2022-08-03,Bullet Train,7.4,7401,2022,"Action, Comedy, Thriller",bullet train
+"[28, 12, 878]",505642,en,Black Panther: Wakanda Forever,11.7312,2022-11-09,Black Panther: Wakanda Forever,7.008,7378,2022,"Action, Adventure, Science Fiction",black panther: wakanda forever
+"[16, 28, 14]",635302,ja,劇場版「鬼滅の刃」無限列車編,11.6823,2020-10-16,Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train,8.199,4448,2020,"Animation, Action, Fantasy",demon slayer -kimetsu no yaiba- the movie: mugen train
+"[18, 37]",335,it,C'era una volta il West,11.6426,1968-12-21,Once Upon a Time in the West,8.276,4850,1968,"Drama, Western",once upon a time in the west
+"[28, 12, 35]",384018,en,Fast & Furious Presents: Hobbs & Shaw,11.6299,2019-07-31,Fast & Furious Presents: Hobbs & Shaw,6.833,7695,2019,"Action, Adventure, Comedy",fast & furious presents: hobbs & shaw
+"[878, 12, 10751, 14]",601,en,E.T. the Extra-Terrestrial,11.5991,1982-06-11,E.T. the Extra-Terrestrial,7.513,11913,1982,"Science Fiction, Adventure, Family, Fantasy",e.t. the extra-terrestrial
+"[53, 80]",75656,en,Now You See Me,11.5365,2013-05-29,Now You See Me,7.332,16653,2013,"Thriller, Crime",now you see me
+"[28, 80, 53]",866398,en,The Beekeeper,11.5312,2024-01-08,The Beekeeper,7.244,4113,2024,"Action, Crime, Thriller",the beekeeper
+"[9648, 53]",77,en,Memento,11.5016,2000-10-11,Memento,8.177,16082,2000,"Mystery, Thriller",memento
+"[16, 10751, 18, 10402, 14]",508442,en,Soul,11.4988,2020-12-25,Soul,8.092,11312,2020,"Animation, Family, Drama, Music, Fantasy",soul
+"[878, 28]",373571,en,Godzilla: King of the Monsters,11.4738,2019-05-29,Godzilla: King of the Monsters,6.688,6645,2019,"Science Fiction, Action",godzilla: king of the monsters
+"[12, 28, 878]",507086,en,Jurassic World Dominion,11.4734,2022-06-01,Jurassic World Dominion,6.604,6970,2022,"Adventure, Action, Science Fiction",jurassic world dominion
+"[12, 10751, 14, 10749]",447277,en,The Little Mermaid,11.4641,2023-05-18,The Little Mermaid,6.3,3281,2023,"Adventure, Family, Fantasy, Romance",the little mermaid
+"[18, 10749]",87825,en,Trouble with the Curve,11.4499,2012-09-21,Trouble with the Curve,6.988,1688,2012,"Drama, Romance",trouble with the curve
+"[28, 12, 878]",157350,en,Divergent,11.4404,2014-03-14,Divergent,6.906,13380,2014,"Action, Adventure, Science Fiction",divergent
+"[16, 35, 10751, 14]",76492,en,Hotel Transylvania,11.4376,2012-09-20,Hotel Transylvania,6.963,9121,2012,"Animation, Comedy, Family, Fantasy",hotel transylvania
+"[16, 10751, 14, 12]",62177,en,Brave,11.4226,2012-06-21,Brave,7.022,14072,2012,"Animation, Family, Fantasy, Adventure",brave
+"[35, 10749, 18]",18240,en,The Proposal,11.4218,2009-06-02,The Proposal,7.146,7387,2009,"Comedy, Romance, Drama",the proposal
+"[28, 18, 10749]",744,en,Top Gun,11.3959,1986-05-16,Top Gun,7.1,9437,1986,"Action, Drama, Romance",top gun
+"[16, 10751, 18]",260514,en,Cars 3,11.3937,2017-06-15,Cars 3,6.854,6338,2017,"Animation, Family, Drama",cars 3
+"[28, 878, 12]",588228,en,The Tomorrow War,11.3923,2021-09-03,The Tomorrow War,7.469,4037,2021,"Action, Science Fiction, Adventure",the tomorrow war
+"[28, 878, 12]",298618,en,The Flash,11.3915,2023-06-13,The Flash,6.616,4921,2023,"Action, Science Fiction, Adventure",the flash
+"[18, 53, 80]",146233,en,Prisoners,11.3893,2013-09-19,Prisoners,8.104,12916,2013,"Drama, Thriller, Crime",prisoners
+"[14, 12, 16, 10751]",10191,en,How to Train Your Dragon,11.3645,2010-03-18,How to Train Your Dragon,7.857,14248,2010,"Fantasy, Adventure, Animation, Family",how to train your dragon
+[27],1034541,en,Terrifier 3,11.3481,2024-10-09,Terrifier 3,6.786,1913,2024,Horror,terrifier 3
+"[35, 10749]",455207,en,Crazy Rich Asians,11.3444,2018-08-15,Crazy Rich Asians,7.052,3935,2018,"Comedy, Romance",crazy rich asians
+"[18, 10402, 10749]",27,en,9 Songs,11.3362,2004-07-16,9 Songs,5.531,572,2004,"Drama, Music, Romance",9 songs
+"[27, 18]",9552,en,The Exorcist,11.3268,1973-12-26,The Exorcist,7.741,8554,1973,"Horror, Drama",the exorcist
+"[12, 28, 53, 878]",604,en,The Matrix Reloaded,11.3238,2003-05-15,The Matrix Reloaded,7.071,11837,2003,"Adventure, Action, Thriller, Science Fiction",the matrix reloaded
+"[28, 878]",240832,en,Lucy,11.304,2014-07-25,Lucy,6.473,16953,2014,"Action, Science Fiction",lucy
+"[35, 18]",637,it,La vita è bella,11.2822,1997-12-20,Life Is Beautiful,8.439,13895,1997,"Comedy, Drama",life is beautiful
+"[878, 28, 12]",670292,en,The Creator,11.2701,2023-09-27,The Creator,7.006,3756,2023,"Science Fiction, Action, Adventure",the creator
+"[28, 35, 10751]",1029575,en,The Family Plan,11.2538,2023-12-14,The Family Plan,7.226,1844,2023,"Action, Comedy, Family",the family plan
+[18],73,en,American History X,11.2486,1998-07-01,American History X,8.328,12461,1998,Drama,american history x
+"[80, 28, 9648, 53]",11074,en,Striking Distance,11.2441,1993-09-17,Striking Distance,5.9,890,1993,"Crime, Action, Mystery, Thriller",striking distance
+"[878, 10749, 35]",792307,en,Poor Things,11.2007,2023-12-07,Poor Things,7.648,5410,2023,"Science Fiction, Romance, Comedy",poor things
+"[28, 53, 80]",324552,en,John Wick: Chapter 2,11.198,2017-02-08,John Wick: Chapter 2,7.337,14134,2017,"Action, Thriller, Crime",john wick: chapter 2
+"[18, 10749]",296096,en,Me Before You,11.195,2016-06-01,Me Before You,7.917,13147,2016,"Drama, Romance",me before you
+"[28, 53]",615457,en,Nobody,11.1668,2021-03-18,Nobody,7.882,8203,2021,"Action, Thriller",nobody
+"[28, 12, 18]",558449,en,Gladiator II,11.1449,2024-11-13,Gladiator II,6.616,4317,2024,"Action, Adventure, Drama",gladiator ii
+"[878, 12, 28]",102899,en,Ant-Man,11.1289,2015-07-14,Ant-Man,7.066,20752,2015,"Science Fiction, Adventure, Action",ant-man
+"[28, 12, 35, 878]",607,en,Men in Black,11.1263,1997-07-02,Men in Black,7.219,14714,1997,"Action, Adventure, Comedy, Science Fiction",men in black
+"[35, 18, 10749]",50646,en,"Crazy, Stupid, Love.",11.1246,2011-07-29,"Crazy, Stupid, Love.",7.271,9189,2011,"Comedy, Drama, Romance","crazy, stupid, love."
+"[14, 12, 28]",57158,en,The Hobbit: The Desolation of Smaug,11.1146,2013-12-11,The Hobbit: The Desolation of Smaug,7.576,14088,2013,"Fantasy, Adventure, Action",the hobbit: the desolation of smaug
+"[28, 12, 14]",791373,en,Zack Snyder's Justice League,11.0959,2021-03-18,Zack Snyder's Justice League,8.1,10723,2021,"Action, Adventure, Fantasy",zack snyder's justice league
+"[14, 18, 9648]",141,en,Donnie Darko,11.0728,2001-01-19,Donnie Darko,7.764,13308,2001,"Fantasy, Drama, Mystery",donnie darko
+"[878, 12, 53]",131631,en,The Hunger Games: Mockingjay - Part 1,11.0524,2014-11-19,The Hunger Games: Mockingjay - Part 1,6.817,16640,2014,"Science Fiction, Adventure, Thriller",the hunger games: mockingjay - part 1
+"[878, 14, 28]",76757,en,Jupiter Ascending,11.0458,2015-02-04,Jupiter Ascending,5.459,7053,2015,"Science Fiction, Fantasy, Action",jupiter ascending
+"[18, 9648]",249397,en,Nymphomaniac: Vol. II,11.0391,2013-12-25,Nymphomaniac: Vol. II,6.708,3116,2013,"Drama, Mystery",nymphomaniac: vol. ii
+"[28, 12, 878, 53]",351286,en,Jurassic World: Fallen Kingdom,11.037,2018-06-06,Jurassic World: Fallen Kingdom,6.532,12665,2018,"Action, Adventure, Science Fiction, Thriller",jurassic world: fallen kingdom
+"[9648, 53, 27]",419430,en,Get Out,11.0261,2017-02-24,Get Out,7.621,18740,2017,"Mystery, Thriller, Horror",get out
+"[28, 12, 878]",49521,en,Man of Steel,11.0256,2013-06-12,Man of Steel,6.641,16069,2013,"Action, Adventure, Science Fiction",man of steel
+"[16, 878, 18, 14]",18491,ja,新世紀エヴァンゲリオン劇場版 Air／まごころを、君に,11.0245,1997-07-19,Neon Genesis Evangelion: The End of Evangelion,8.262,1825,1997,"Animation, Science Fiction, Drama, Fantasy",neon genesis evangelion: the end of evangelion
+[18],1366,en,Rocky,10.9867,1976-12-03,Rocky,7.795,8534,1976,Drama,rocky
+"[28, 878, 27]",615656,en,Meg 2: The Trench,10.9847,2023-08-02,Meg 2: The Trench,6.378,3917,2023,"Action, Science Fiction, Horror",meg 2: the trench
+"[12, 18]",8358,en,Cast Away,10.9481,2000-12-22,Cast Away,7.661,12169,2000,"Adventure, Drama",cast away
+"[16, 35, 10751, 14]",568124,en,Encanto,10.9334,2021-10-13,Encanto,7.569,10133,2021,"Animation, Comedy, Family, Fantasy",encanto
+"[16, 10749, 14, 10751]",10198,en,The Princess and the Frog,10.9189,2009-12-08,The Princess and the Frog,7.2,6059,2009,"Animation, Romance, Fantasy, Family",the princess and the frog
+"[878, 12, 28]",348350,en,Solo: A Star Wars Story,10.9101,2018-05-15,Solo: A Star Wars Story,6.558,9192,2018,"Science Fiction, Adventure, Action",solo: a star wars story
+"[28, 878, 53]",274855,en,Geostorm,10.8782,2017-10-12,Geostorm,6.111,5122,2017,"Action, Science Fiction, Thriller",geostorm
+"[14, 16, 10751]",408,en,Snow White and the Seven Dwarfs,10.8678,1938-01-14,Snow White and the Seven Dwarfs,7.122,7941,1938,"Fantasy, Animation, Family",snow white and the seven dwarfs
+"[16, 10751, 14]",10144,en,The Little Mermaid,10.8675,1989-11-17,The Little Mermaid,7.4,8360,1989,"Animation, Family, Fantasy",the little mermaid
+"[10749, 14, 16]",3933,en,Corpse Bride,10.8661,2005-09-12,Corpse Bride,7.584,10092,2005,"Romance, Fantasy, Animation",corpse bride
+"[27, 53]",507089,en,Five Nights at Freddy's,10.8528,2023-10-25,Five Nights at Freddy's,7.332,4954,2023,"Horror, Thriller",five nights at freddy's
+"[28, 35]",11770,cn,少林足球,10.8453,2001-07-05,Shaolin Soccer,7.2,2494,2001,"Action, Comedy",shaolin soccer
+"[28, 53, 878]",577922,en,Tenet,10.8258,2020-08-22,Tenet,7.2,10987,2020,"Action, Thriller, Science Fiction",tenet
+[35],4248,en,Scary Movie 2,10.8252,2001-07-04,Scary Movie 2,5.814,5085,2001,Comedy,scary movie 2
+"[28, 53]",562,en,Die Hard,10.8245,1988-07-15,Die Hard,7.808,12165,1988,"Action, Thriller",die hard
+"[53, 80]",161,en,Ocean's Eleven,10.8221,2001-12-07,Ocean's Eleven,7.457,12444,2001,"Thriller, Crime",ocean's eleven
+"[35, 12, 878]",550988,en,Free Guy,10.7974,2021-08-11,Free Guy,7.453,9694,2021,"Comedy, Adventure, Science Fiction",free guy
+"[16, 12, 35, 14]",585511,en,Luck,10.7868,2022-08-05,Luck,7.727,1924,2022,"Animation, Adventure, Comedy, Fantasy",luck
+[27],377,en,A Nightmare on Elm Street,10.7798,1984-11-09,A Nightmare on Elm Street,7.344,5665,1984,Horror,a nightmare on elm street
+"[28, 80, 53]",26389,en,From Paris with Love,10.7795,2010-02-04,From Paris with Love,6.367,2279,2010,"Action, Crime, Thriller",from paris with love
+[18],22881,en,The Blind Side,10.7781,2009-11-20,The Blind Side,7.665,6781,2009,Drama,the blind side
+"[10751, 14, 10749]",321612,en,Beauty and the Beast,10.7697,2017-03-16,Beauty and the Beast,6.968,15957,2017,"Family, Fantasy, Romance",beauty and the beast
+"[16, 10751, 12]",166428,en,How to Train Your Dragon: The Hidden World,10.7682,2019-01-03,How to Train Your Dragon: The Hidden World,7.749,7036,2019,"Animation, Family, Adventure",how to train your dragon: the hidden world
+"[14, 12, 28, 10751, 10749]",102651,en,Maleficent,10.7578,2014-05-28,Maleficent,7.086,13645,2014,"Fantasy, Adventure, Action, Family, Romance",maleficent
+"[35, 18, 10751]",196867,en,Annie,10.7117,2014-12-18,Annie,6.238,1343,2014,"Comedy, Drama, Family",annie
+"[16, 10751, 12, 35]",49013,en,Cars 2,10.704,2011-06-11,Cars 2,6.176,8418,2011,"Animation, Family, Adventure, Comedy",cars 2
+"[27, 18, 878]",447332,en,A Quiet Place,10.6907,2018-04-03,A Quiet Place,7.392,15223,2018,"Horror, Drama, Science Fiction",a quiet place
+"[28, 12, 53, 10752]",1368,en,First Blood,10.6739,1982-10-22,First Blood,7.505,6822,1982,"Action, Adventure, Thriller, War",first blood
+"[12, 35, 14, 10751]",181533,en,Night at the Museum: Secret of the Tomb,10.6576,2014-12-17,Night at the Museum: Secret of the Tomb,6.222,6190,2014,"Adventure, Comedy, Fantasy, Family",night at the museum: secret of the tomb
+"[28, 12, 14]",297802,en,Aquaman,10.6566,2018-12-07,Aquaman,6.867,14823,2018,"Action, Adventure, Fantasy",aquaman
+"[28, 53, 80]",926393,en,The Equalizer 3,10.6526,2023-08-30,The Equalizer 3,7.29,3644,2023,"Action, Thriller, Crime",the equalizer 3
+"[10751, 35, 12, 16]",748783,en,The Garfield Movie,10.6453,2024-04-30,The Garfield Movie,6.996,1417,2024,"Family, Comedy, Adventure, Animation",the garfield movie
+"[35, 10749, 18]",4951,en,10 Things I Hate About You,10.6322,1999-03-30,10 Things I Hate About You,7.589,8831,1999,"Comedy, Romance, Drama",10 things i hate about you
+"[16, 53]",10494,ja,PERFECT BLUE,10.6251,1998-02-28,Perfect Blue,8.3,3124,1998,"Animation, Thriller",perfect blue
+[53],645710,en,The Voyeurs,10.6166,2021-08-25,The Voyeurs,6.51,1153,2021,Thriller,the voyeurs
+"[35, 14, 80, 10749]",854,en,The Mask,10.5963,1994-07-29,The Mask,7.0,11146,1994,"Comedy, Fantasy, Crime, Romance",the mask
+"[10749, 35]",1072790,en,Anyone But You,10.589,2023-12-21,Anyone But You,6.791,3004,2023,"Romance, Comedy",anyone but you
+"[27, 14]",426063,en,Nosferatu,10.578,2024-12-25,Nosferatu,6.71,3566,2024,"Horror, Fantasy",nosferatu
+"[878, 80]",185,en,A Clockwork Orange,10.5647,1971-10-28,A Clockwork Orange,8.178,13726,1971,"Science Fiction, Crime",a clockwork orange
+"[28, 80, 878]",754,en,Face/Off,10.5376,1997-06-27,Face/Off,7.051,5828,1997,"Action, Crime, Science Fiction",face/off
+"[12, 14, 10751]",630,en,The Wizard of Oz,10.5216,1939-08-15,The Wizard of Oz,7.585,6065,1939,"Adventure, Fantasy, Family",the wizard of oz
+"[80, 35, 28]",402900,en,Ocean's Eight,10.5193,2018-06-07,Ocean's Eight,6.961,8736,2018,"Crime, Comedy, Action",ocean's eight
+"[28, 80]",414419,en,Kill Bill: The Whole Bloody Affair,10.5074,2011-03-27,Kill Bill: The Whole Bloody Affair,8.1,1203,2011,"Action, Crime",kill bill: the whole bloody affair
+"[28, 12, 10751, 35]",675353,en,Sonic the Hedgehog 2,10.4976,2022-03-30,Sonic the Hedgehog 2,7.4,5815,2022,"Action, Adventure, Family, Comedy",sonic the hedgehog 2
+"[878, 12, 28]",667538,en,Transformers: Rise of the Beasts,10.4906,2023-06-06,Transformers: Rise of the Beasts,7.175,5219,2023,"Science Fiction, Adventure, Action",transformers: rise of the beasts
+"[53, 9648]",567,en,Rear Window,10.4849,1954-08-01,Rear Window,8.341,7096,1954,"Thriller, Mystery",rear window
+"[80, 18, 53]",11423,ko,살인의 추억,10.4837,2003-04-25,Memories of Murder,8.056,4506,2003,"Crime, Drama, Thriller",memories of murder
+"[18, 10402, 10749]",776503,en,CODA,10.4566,2021-08-13,CODA,7.891,2548,2021,"Drama, Music, Romance",coda
+"[878, 12, 28]",653346,en,Kingdom of the Planet of the Apes,10.4537,2024-05-08,Kingdom of the Planet of the Apes,7.055,4189,2024,"Science Fiction, Adventure, Action",kingdom of the planet of the apes
+"[80, 53]",291805,en,Now You See Me 2,10.4531,2016-06-02,Now You See Me 2,6.827,11488,2016,"Crime, Thriller",now you see me 2
+"[27, 53]",948,en,Halloween,10.4524,1978-10-24,Halloween,7.556,6120,1978,"Horror, Thriller",halloween
+"[27, 53]",760104,en,X,10.4378,2022-03-17,X,6.72,3898,2022,"Horror, Thriller",x
+[35],8467,en,Dumb and Dumber,10.4357,1994-12-16,Dumb and Dumber,6.65,6654,1994,Comedy,dumb and dumber
+"[10751, 14, 16, 10749]",11224,en,Cinderella,10.4333,1950-02-22,Cinderella,7.043,7097,1950,"Family, Fantasy, Animation, Romance",cinderella
+"[18, 28, 36]",359724,en,Ford v Ferrari,10.421,2019-11-13,Ford v Ferrari,8.005,8877,2019,"Drama, Action, History",ford v ferrari
+"[12, 18, 28]",147441,en,Exodus: Gods and Kings,10.4011,2014-12-03,Exodus: Gods and Kings,5.88,4815,2014,"Adventure, Drama, Action",exodus: gods and kings
+"[878, 28, 12]",524434,en,Eternals,10.3777,2021-11-03,Eternals,6.774,9046,2021,"Science Fiction, Action, Adventure",eternals
+"[12, 16, 14]",81,ja,風の谷のナウシカ,10.3664,1984-03-11,Nausicaä of the Valley of the Wind,7.949,4027,1984,"Adventure, Animation, Fantasy",nausicaä of the valley of the wind
+"[27, 9648]",41446,en,Scream 4,10.356,2011-04-13,Scream 4,6.479,4127,2011,"Horror, Mystery",scream 4
+"[35, 10751, 14]",10830,en,Matilda,10.3239,1996-08-02,Matilda,7.173,4765,1996,"Comedy, Family, Fantasy",matilda
+"[27, 18, 9648]",530385,en,Midsommar,10.3226,2019-07-03,Midsommar,7.152,7972,2019,"Horror, Drama, Mystery",midsommar
+"[12, 28, 14]",1734,en,The Mummy Returns,10.3082,2001-05-04,The Mummy Returns,6.396,7588,2001,"Adventure, Action, Fantasy",the mummy returns
+"[80, 18, 53]",242,en,The Godfather Part III,10.3011,1990-12-25,The Godfather Part III,7.419,6798,1990,"Crime, Drama, Thriller",the godfather part iii
+"[18, 10749]",370663,en,Below Her Mouth,10.2733,2017-02-10,Below Her Mouth,6.794,1274,2017,"Drama, Romance",below her mouth
+"[10752, 28, 53]",882569,en,Guy Ritchie's The Covenant,10.2315,2023-04-19,Guy Ritchie's The Covenant,7.716,3115,2023,"War, Action, Thriller",guy ritchie's the covenant
+"[27, 9648, 80]",176,en,Saw,10.2192,2004-10-01,Saw,7.42,9963,2004,"Horror, Mystery, Crime",saw
+"[10749, 18]",851644,ko,20세기 소녀,10.1813,2022-10-06,20th Century Girl,8.1,800,2022,"Romance, Drama",20th century girl
+"[12, 14, 18, 10749]",24021,en,The Twilight Saga: Eclipse,10.1715,2010-06-23,The Twilight Saga: Eclipse,6.195,9200,2010,"Adventure, Fantasy, Drama, Romance",the twilight saga: eclipse
+"[10749, 18]",398818,en,Call Me by Your Name,10.1397,2017-10-01,Call Me by Your Name,8.092,12681,2017,"Romance, Drama",call me by your name
+"[37, 18, 12]",281957,en,The Revenant,10.1359,2015-12-25,The Revenant,7.54,19186,2015,"Western, Drama, Adventure",the revenant
+"[10749, 14, 10751, 18]",150689,en,Cinderella,10.1287,2015-03-06,Cinderella,6.823,7359,2015,"Romance, Fantasy, Family, Drama",cinderella
+"[18, 10749]",11216,it,Nuovo Cinema Paradiso,10.1283,1988-11-17,Cinema Paradiso,8.426,4782,1988,"Drama, Romance",cinema paradiso
+"[35, 80, 9648]",661374,en,Glass Onion: A Knives Out Mystery,10.1272,2022-11-23,Glass Onion: A Knives Out Mystery,7.033,6708,2022,"Comedy, Crime, Mystery",glass onion: a knives out mystery
+"[12, 28, 878]",140607,en,Star Wars: The Force Awakens,10.1196,2015-12-15,Star Wars: The Force Awakens,7.25,20422,2015,"Adventure, Action, Science Fiction",star wars: the force awakens
+"[14, 28, 12, 16, 10751]",82702,en,How to Train Your Dragon 2,10.0916,2014-06-05,How to Train Your Dragon 2,7.679,10345,2014,"Fantasy, Action, Adventure, Animation, Family",how to train your dragon 2
+"[16, 35, 10751, 37, 12]",44896,en,Rango,10.0817,2011-03-02,Rango,6.891,7021,2011,"Animation, Comedy, Family, Western, Adventure",rango
+"[12, 28, 53]",36557,en,Casino Royale,10.0709,2006-11-14,Casino Royale,7.57,11579,2006,"Adventure, Action, Thriller",casino royale
+"[10751, 14, 12]",12155,en,Alice in Wonderland,10.0701,2010-03-03,Alice in Wonderland,6.639,14710,2010,"Family, Fantasy, Adventure",alice in wonderland
+"[28, 18, 36, 10752]",197,en,Braveheart,10.0444,1995-05-24,Braveheart,7.941,11003,1995,"Action, Drama, History, War",braveheart
+"[12, 28, 53]",954,en,Mission: Impossible,10.0437,1996-05-22,Mission: Impossible,7.023,9888,1996,"Adventure, Action, Thriller",mission: impossible
+"[16, 878, 12, 10751]",698687,en,Transformers One,10.0436,2024-09-11,Transformers One,8.0,1571,2024,"Animation, Science Fiction, Adventure, Family",transformers one
+"[16, 10751, 14, 35, 18]",508943,en,Luca,10.0277,2021-06-17,Luca,7.783,8889,2021,"Animation, Family, Fantasy, Comedy, Drama",luca
+[18],10867,it,Malèna,10.0246,2000-10-27,Malena,7.428,2473,2000,Drama,malena
+"[28, 53, 12]",370172,en,No Time to Die,10.0198,2021-09-29,No Time to Die,7.341,7014,2021,"Action, Thriller, Adventure",no time to die
+"[16, 10402, 35, 10751]",438695,en,Sing 2,10.0122,2021-12-01,Sing 2,7.8,4731,2021,"Animation, Music, Comedy, Family",sing 2
+"[28, 53, 878]",752,en,V for Vendetta,10.0119,2006-02-23,V for Vendetta,7.899,15448,2006,"Action, Thriller, Science Fiction",v for vendetta
+"[36, 10752, 18, 12]",967,en,Spartacus,9.9996,1960-10-13,Spartacus,7.536,2364,1960,"History, War, Drama, Adventure",spartacus
+"[28, 35, 10749]",746036,en,The Fall Guy,9.9791,2024-04-24,The Fall Guy,6.956,3635,2024,"Action, Comedy, Romance",the fall guy
+"[35, 10749]",10591,en,The Girl Next Door,9.9625,2004-04-09,The Girl Next Door,6.732,3953,2004,"Comedy, Romance",the girl next door
+"[10752, 28, 18]",929590,en,Civil War,9.9587,2024-04-10,Civil War,6.855,4237,2024,"War, Action, Drama",civil war
+"[28, 12, 14]",447404,en,Pokémon Detective Pikachu,9.9559,2019-05-03,Pokémon Detective Pikachu,6.906,7297,2019,"Action, Adventure, Fantasy",pokémon detective pikachu
+"[28, 12]",353081,en,Mission: Impossible - Fallout,9.9369,2018-07-25,Mission: Impossible - Fallout,7.448,9056,2018,"Action, Adventure",mission: impossible - fallout
+[18],1402,en,The Pursuit of Happyness,9.9197,2006-12-14,The Pursuit of Happyness,7.886,10507,2006,Drama,the pursuit of happyness
+"[12, 28]",85,en,Raiders of the Lost Ark,9.907,1981-06-12,Raiders of the Lost Ark,7.924,13519,1981,"Adventure, Action",raiders of the lost ark
+"[28, 35, 878]",257344,en,Pixels,9.8925,2015-07-16,Pixels,5.768,7984,2015,"Action, Comedy, Science Fiction",pixels
+"[18, 80, 53]",629,en,The Usual Suspects,9.877,1995-07-19,The Usual Suspects,8.17,11294,1995,"Drama, Crime, Thriller",the usual suspects
+"[35, 12, 14, 16, 10751]",10192,en,Shrek Forever After,9.8762,2010-05-20,Shrek Forever After,6.393,7885,2010,"Comedy, Adventure, Fantasy, Animation, Family",shrek forever after
+"[878, 28, 53]",87101,en,Terminator Genisys,9.8506,2015-06-23,Terminator Genisys,5.951,8906,2015,"Science Fiction, Action, Thriller",terminator genisys
+"[35, 10751, 12]",772,en,Home Alone 2: Lost in New York,9.8304,1992-11-15,Home Alone 2: Lost in New York,6.784,10537,1992,"Comedy, Family, Adventure",home alone 2: lost in new york
+"[28, 12, 80]",47971,en,xXx: Return of Xander Cage,9.7868,2017-01-13,xXx: Return of Xander Cage,6.132,9198,2017,"Action, Adventure, Crime",xxx: return of xander cage
+[18],50014,en,The Help,9.7626,2011-08-09,The Help,8.198,8941,2011,Drama,the help
+"[53, 18, 9648]",1018,en,Mulholland Drive,9.7447,2001-06-06,Mulholland Drive,7.802,6964,2001,"Thriller, Drama, Mystery",mulholland drive
+"[35, 27]",273477,en,Scouts Guide to the Zombie Apocalypse,9.7386,2015-10-23,Scouts Guide to the Zombie Apocalypse,6.57,2102,2015,"Comedy, Horror",scouts guide to the zombie apocalypse
+[35],257211,en,The Intern,9.7369,2015-09-23,The Intern,7.227,7251,2015,Comedy,the intern
+"[12, 14, 16, 10751]",9992,fr,Arthur et les Minimoys,9.7145,2006-12-13,Arthur and the Invisibles,6.382,3022,2006,"Adventure, Fantasy, Animation, Family",arthur and the invisibles
+"[14, 18, 10752]",1417,es,El laberinto del fauno,9.6986,2006-10-11,Pan's Labyrinth,7.761,11360,2006,"Fantasy, Drama, War",pan's labyrinth
+"[28, 12, 878]",127585,en,X-Men: Days of Future Past,9.6901,2014-05-15,X-Men: Days of Future Past,7.53,16146,2014,"Action, Adventure, Science Fiction",x-men: days of future past
+"[28, 12, 14]",566525,en,Shang-Chi and the Legend of the Ten Rings,9.6797,2021-09-01,Shang-Chi and the Legend of the Ten Rings,7.495,10280,2021,"Action, Adventure, Fantasy",shang-chi and the legend of the ten rings
+"[878, 9648, 27]",70981,en,Prometheus,9.659,2012-05-30,Prometheus,6.592,13150,2012,"Science Fiction, Mystery, Horror",prometheus
+"[18, 10749]",4347,en,Atonement,9.6556,2007-02-27,Atonement,7.633,4659,2007,"Drama, Romance",atonement
+"[12, 35, 10751, 14]",118,en,Charlie and the Chocolate Factory,9.6512,2005-07-13,Charlie and the Chocolate Factory,7.038,16027,2005,"Adventure, Comedy, Family, Fantasy",charlie and the chocolate factory
+"[12, 28, 878]",1893,en,Star Wars: Episode I - The Phantom Menace,9.6249,1999-05-19,Star Wars: Episode I - The Phantom Menace,6.572,15694,1999,"Adventure, Action, Science Fiction",star wars: episode i - the phantom menace
+"[878, 27, 53]",1064028,en,Subservience,9.6235,2024-08-15,Subservience,6.6,968,2024,"Science Fiction, Horror, Thriller",subservience
+"[28, 35, 10749]",868759,en,Ghosted,9.6051,2023-04-18,Ghosted,6.885,2152,2023,"Action, Comedy, Romance",ghosted
+"[28, 18, 53, 80]",348893,en,Boyka: Undisputed IV,9.5992,2016-08-01,Boyka: Undisputed IV,7.177,1435,2016,"Action, Drama, Thriller, Crime",boyka: undisputed iv
+"[878, 14, 28]",246655,en,X-Men: Apocalypse,9.5901,2016-05-18,X-Men: Apocalypse,6.522,13678,2016,"Science Fiction, Fantasy, Action",x-men: apocalypse
+"[16, 878, 28]",149,ja,AKIRA,9.5756,1988-06-10,Akira,7.944,4709,1988,"Animation, Science Fiction, Action",akira
+"[28, 80]",339403,en,Baby Driver,9.5598,2017-06-28,Baby Driver,7.442,16719,2017,"Action, Crime",baby driver
+"[28, 12, 878]",299537,en,Captain Marvel,9.5387,2019-03-06,Captain Marvel,6.784,16633,2019,"Action, Adventure, Science Fiction",captain marvel
+"[28, 12, 878]",100402,en,Captain America: The Winter Soldier,9.5289,2014-03-20,Captain America: The Winter Soldier,7.653,19868,2014,"Action, Adventure, Science Fiction",captain america: the winter soldier
+"[28, 53, 10752]",7555,en,Rambo,9.5287,2008-01-24,Rambo,6.693,4227,2008,"Action, Thriller, War",rambo
+"[28, 12, 878, 53]",135397,en,Jurassic World,9.5202,2015-06-06,Jurassic World,6.699,21455,2015,"Action, Adventure, Science Fiction, Thriller",jurassic world
+"[35, 80]",115,en,The Big Lebowski,9.495,1998-03-06,The Big Lebowski,7.84,12063,1998,"Comedy, Crime",the big lebowski
+"[28, 18, 36]",14537,ja,切腹,9.4833,1962-09-15,Harakiri,8.438,1186,1962,"Action, Drama, History",harakiri
+[27],259693,en,The Conjuring 2,9.4607,2016-06-08,The Conjuring 2,7.293,9103,2016,Horror,the conjuring 2
+"[80, 18, 53]",275,en,Fargo,9.4443,1996-03-08,Fargo,7.849,9006,1996,"Crime, Drama, Thriller",fargo
+"[27, 18, 9648]",1813,en,The Devil's Advocate,9.4427,1997-10-17,The Devil's Advocate,7.469,6698,1997,"Horror, Drama, Mystery",the devil's advocate
+"[28, 35, 80]",2109,en,Rush Hour,9.4327,1998-09-18,Rush Hour,7.062,5580,1998,"Action, Comedy, Crime",rush hour
+"[18, 53, 9648]",2649,en,The Game,9.4295,1997-09-12,The Game,7.57,7250,1997,"Drama, Thriller, Mystery",the game
+"[28, 878]",137113,en,Edge of Tomorrow,9.427,2014-05-27,Edge of Tomorrow,7.637,14921,2014,"Action, Science Fiction",edge of tomorrow
+"[53, 12, 28]",27578,en,The Expendables,9.4203,2010-08-07,The Expendables,6.252,8226,2010,"Thriller, Adventure, Action",the expendables
+"[18, 10749, 14]",122906,en,About Time,9.4006,2013-09-04,About Time,7.907,9176,2013,"Drama, Romance, Fantasy",about time
+"[28, 80, 53]",581528,ko,악인전,9.3726,2019-05-15,"The Gangster, the Cop, the Devil",7.843,1431,2019,"Action, Crime, Thriller","the gangster, the cop, the devil"
+"[14, 28, 27]",561,en,Constantine,9.3706,2005-02-08,Constantine,7.121,7924,2005,"Fantasy, Action, Horror",constantine

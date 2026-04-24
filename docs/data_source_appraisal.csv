@@ -1,0 +1,13 @@
+Source,Format,Volume,Key Fields,Quality,Known Risks
+TMDB API,JSON (REST API),500 records,"title, vote_average, popularity, genre_ids, release_date","High — structured, well-maintained, official source","• Popularity bias: filters favor mainstream films
+• vote_count ≥ 500 filter may exclude niche/indie films
+• No direct box office revenue field
+• Missing or null fields: ~0 records"
+Box Office Mojo,HTML (Web Scraping),1000 records,"title, lifetime gross revenue, year",Medium — scraped HTML; layout may change over time,"• Revenue in string format (e.g. '$1,234,567') — needs parsing
+• Website layout may change, breaking the scraper
+• Only covers North American box office (not global)
+• Missing values: 0 cells across all columns"
+Top 200 Movies CSV,CSV (Flat File),200 records,"Title, Total Gross, Release Date, Distributor","High — clean, pre-processed dataset; no missing values","• Limited to only 200 movies (2023 only)
+• Revenue stored as string with $ and commas — needs parsing
+• No audience rating or genre columns
+• Missing values: 0 cells across all columns"

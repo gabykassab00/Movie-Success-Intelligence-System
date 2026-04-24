@@ -1,0 +1,1001 @@
+rank,title,revenue,year
+1,Star Wars: Episode VII - The Force Awakens,"$936,662,225",2015
+2,Avengers: Endgame,"$858,373,000",2019
+3,Spider-Man: No Way Home,"$814,866,759",2021
+4,Avatar,"$785,221,649",2009
+5,Top Gun: Maverick,"$718,732,821",2022
+6,Black Panther,"$700,426,566",2018
+7,Avatar: The Way of Water,"$688,459,501",2022
+8,Avengers: Infinity War,"$678,815,482",2018
+9,Titanic,"$674,354,882",1997
+10,Jurassic World,"$653,406,625",2015
+11,Inside Out 2,"$652,980,194",2024
+12,Deadpool & Wolverine,"$636,745,858",2024
+13,Barbie,"$636,238,421",2023
+14,The Avengers,"$623,357,910",2012
+15,Star Wars: Episode VIII - The Last Jedi,"$620,181,382",2017
+16,Incredibles 2,"$608,581,744",2018
+17,The Super Mario Bros. Movie,"$574,934,330",2023
+18,The Lion King,"$543,638,043",2019
+19,The Dark Knight,"$534,987,076",2008
+20,Rogue One: A Star Wars Story,"$533,539,991",2016
+21,Star Wars: Episode IX - The Rise of Skywalker,"$515,202,542",2019
+22,Beauty and the Beast,"$504,481,165",2017
+23,Star Wars: Episode I - The Phantom Menace,"$487,576,624",1999
+24,Finding Dory,"$486,295,561",2016
+25,Frozen II,"$477,373,578",2019
+26,Wicked,"$474,983,975",2024
+27,Star Wars: Episode IV - A New Hope,"$460,998,507",1977
+28,Moana 2,"$460,405,297",2024
+29,Avengers: Age of Ultron,"$459,005,868",2015
+30,Black Panther: Wakanda Forever,"$453,829,060",2022
+31,The Dark Knight Rises,"$448,149,584",2012
+32,Shrek 2,"$444,978,202",2004
+33,E.T. the Extra-Terrestrial,"$439,454,989",1982
+34,Toy Story 4,"$434,038,008",2019
+35,Zootopia 2,"$428,130,160",2025
+36,Captain Marvel,"$426,829,839",2019
+37,The Lion King,"$424,979,720",1994
+38,The Hunger Games: Catching Fire,"$424,668,047",2013
+39,A Minecraft Movie,"$424,087,780",2025
+40,Lilo & Stitch,"$423,778,855",2025
+41,Pirates of the Caribbean: Dead Man's Chest,"$423,315,812",2006
+42,Jurassic World: Fallen Kingdom,"$417,719,760",2018
+43,Toy Story 3,"$415,004,880",2010
+44,Star Wars: Episode III - Revenge of the Sith,"$414,378,291",2005
+45,Wonder Woman,"$412,845,172",2017
+46,Doctor Strange in the Multiverse of Madness,"$411,331,607",2022
+47,Iron Man 3,"$409,013,994",2013
+48,Spider-Man,"$408,524,875",2002
+49,Captain America: Civil War,"$408,084,349",2016
+50,The Hunger Games,"$408,010,692",2012
+51,Jurassic Park,"$407,185,075",1993
+52,Jumanji: Welcome to the Jungle,"$404,540,171",2017
+53,Avatar: Fire and Ash,"$404,328,306",2025
+54,Transformers: Revenge of the Fallen,"$402,111,870",2009
+55,Frozen,"$400,953,009",2013
+56,Spider-Man: Far from Home,"$391,283,774",2019
+57,Guardians of the Galaxy Vol. 2,"$389,813,101",2017
+58,The Lord of the Rings: The Return of the King,"$386,975,644",2003
+59,Harry Potter and the Deathly Hallows: Part 2,"$381,884,297",2011
+60,Spider-Man: Across the Spider-Verse,"$381,593,754",2023
+61,Finding Nemo,"$380,843,261",2003
+62,Jurassic World: Dominion,"$376,851,080",2022
+63,Spider-Man 2,"$375,087,840",2004
+64,The Passion of the Christ,"$370,782,930",2004
+65,Minions: The Rise of Gru,"$370,549,695",2022
+66,The Batman,"$369,801,546",2022
+67,The Secret Life of Pets,"$368,623,860",2016
+68,Despicable Me 2,"$368,065,385",2013
+69,The Jungle Book,"$364,001,123",2016
+70,Deadpool,"$363,070,709",2016
+71,Despicable Me 4,"$361,004,205",2024
+72,Guardians of the Galaxy Vol. 3,"$358,995,815",2023
+73,Inside Out,"$356,461,711",2015
+74,Aladdin,"$355,559,216",2019
+75,Superman,"$354,223,803",2025
+76,Furious 7,"$353,007,020",2015
+77,Transformers: Dark of the Moon,"$352,390,543",2011
+78,American Sniper,"$350,159,020",2014
+79,The Lord of the Rings: The Two Towers,"$350,104,956",2002
+80,Thor: Love and Thunder,"$343,256,830",2022
+81,Wicked: For Good,"$342,915,090",2025
+82,Zootopia,"$341,268,248",2016
+83,Jurassic World: Rebirth,"$339,640,400",2025
+84,Spider-Man 3,"$338,032,318",2007
+85,The Hunger Games: Mockingjay - Part 1,"$337,135,885",2014
+86,Minions,"$336,045,770",2015
+87,Joker,"$335,477,657",2019
+88,Aquaman,"$335,104,314",2018
+89,Spider-Man: Homecoming,"$334,952,829",2017
+90,Alice in Wonderland,"$334,191,110",2010
+91,Guardians of the Galaxy,"$333,718,600",2014
+92,Forrest Gump,"$330,455,270",1994
+93,Batman v Superman: Dawn of Justice,"$330,360,194",2016
+94,Oppenheimer,"$330,078,895",2023
+95,It,"$328,874,981",2017
+96,The Lord of the Rings: The Fellowship of the Ring,"$325,873,309",2001
+97,Suicide Squad,"$325,100,054",2016
+98,Deadpool 2,"$324,591,735",2018
+99,Shrek the Third,"$322,719,944",2007
+100,Jumanji: The Next Level,"$320,314,960",2019
+101,Harry Potter and the Sorcerer's Stone,"$319,765,078",2001
+102,Transformers,"$319,246,193",2007
+103,Iron Man,"$319,034,126",2008
+104,Indiana Jones and the Kingdom of the Crystal Skull,"$317,101,119",2008
+105,Star Wars: Episode VI - Return of the Jedi,"$316,566,101",1983
+106,Thor: Ragnarok,"$315,058,289",2017
+107,Iron Man 2,"$312,433,331",2010
+108,Star Wars: Episode II - Attack of the Clones,"$310,676,740",2002
+109,Pirates of the Caribbean: At World's End,"$309,420,425",2007
+110,The Super Mario Galaxy Movie,"$308,117,135",2026
+111,Independence Day,"$306,169,268",1996
+112,Pirates of the Caribbean: The Curse of the Black Pearl,"$305,413,918",2003
+113,Skyfall,"$304,360,277",2012
+114,The Hobbit: An Unexpected Journey,"$303,030,651",2012
+115,Harry Potter and the Half-Blood Prince,"$302,334,374",2009
+116,The Twilight Saga: Eclipse,"$300,840,764",2010
+117,The Twilight Saga: New Moon,"$298,410,482",2009
+118,The Little Mermaid,"$298,172,056",2023
+119,Harry Potter and the Deathly Hallows: Part 1,"$296,374,621",2010
+120,Beetlejuice Beetlejuice,"$294,100,435",2024
+121,The Sixth Sense,"$293,506,292",1999
+122,The Twilight Saga: Breaking Dawn - Part 2,"$293,144,686",2012
+123,Up,"$293,004,164",2009
+124,Star Wars: Episode V - The Empire Strikes Back,"$292,753,960",1980
+125,Inception,"$292,587,330",2010
+126,Harry Potter and the Order of the Phoenix,"$292,382,727",2007
+127,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","$291,710,957",2005
+128,Harry Potter and the Goblet of Fire,"$291,239,805",2005
+129,Man of Steel,"$291,045,518",2013
+130,"Monsters, Inc.","$290,642,256",2001
+131,Home Alone,"$285,761,243",1990
+132,Dune: Part Two,"$282,144,358",2024
+133,The Twilight Saga: Breaking Dawn - Part 1,"$281,797,623",2011
+134,The Hunger Games: Mockingjay - Part 2,"$281,723,902",2015
+135,The Matrix Reloaded,"$281,576,461",2003
+136,Jaws,"$280,083,300",1975
+137,Sinners,"$279,989,632",2025
+138,Meet the Fockers,"$279,261,160",2004
+139,The Hangover,"$277,339,746",2009
+140,The Fantastic Four: First Steps,"$274,286,610",2025
+141,Gravity,"$274,092,705",2013
+142,The Grinch,"$272,504,456",2018
+143,Sing,"$270,578,425",2016
+144,Shrek,"$268,698,241",2001
+145,Monsters University,"$268,492,764",2013
+146,Twisters,"$267,762,265",2024
+147,How the Grinch Stole Christmas,"$264,965,545",2000
+148,Despicable Me 3,"$264,624,300",2017
+149,Harry Potter and the Chamber of Secrets,"$263,094,348",2002
+150,How to Train Your Dragon,"$262,958,100",2025
+151,The Amazing Spider-Man,"$262,782,352",2012
+152,The Incredibles,"$261,441,092",2004
+153,Captain America: The Winter Soldier,"$259,766,572",2014
+154,The Hobbit: The Desolation of Smaug,"$258,387,334",2013
+155,The Lego Movie,"$257,966,122",2014
+156,Star Trek,"$257,730,019",2009
+157,Project Hail Mary,"$256,657,974",2026
+158,I Am Legend,"$256,393,010",2007
+159,The Blind Side,"$255,982,860",2009
+160,The Hobbit: The Battle of the Five Armies,"$255,138,261",2014
+161,Mufasa: The Lion King,"$254,567,693",2024
+162,The Hangover Part II,"$254,464,305",2011
+163,Despicable Me,"$251,683,815",2010
+164,Batman,"$251,409,241",1989
+165,Night at the Museum,"$250,863,268",2006
+166,Men in Black,"$250,690,539",1997
+167,Harry Potter and the Prisoner of Azkaban,"$250,657,586",2016
+168,Moana,"$248,757,044",2016
+169,Raiders of the Lost Ark,"$248,159,971",1981
+170,Toy Story 2,"$245,852,179",1999
+171,Transformers: Age of Extinction,"$245,439,076",2014
+172,Cars,"$244,082,982",2006
+173,Ghostbusters,"$243,640,120",1984
+174,Bruce Almighty,"$242,829,261",2003
+175,Twister,"$241,830,615",1996
+176,My Big Fat Greek Wedding,"$241,438,208",2002
+177,Maleficent,"$241,410,378",2014
+178,Pirates of the Caribbean: On Stranger Tides,"$241,071,802",2011
+179,Shrek Forever After,"$238,736,787",2010
+180,Fast & Furious 6,"$238,679,850",2013
+181,Brave,"$237,283,207",2012
+182,Sonic the Hedgehog 3,"$236,115,100",2024
+183,Oz the Great and Powerful,"$234,911,825",2013
+184,Beverly Hills Cop,"$234,760,478",1984
+185,X-Men: The Last Stand,"$234,362,462",2006
+186,War of the Worlds,"$234,280,354",2005
+187,Fantastic Beasts and Where to Find Them,"$234,037,575",2016
+188,X-Men: Days of Future Past,"$233,921,534",2014
+189,Cast Away,"$233,632,142",2000
+190,The Exorcist,"$233,005,644",1973
+191,Doctor Strange,"$232,641,920",2016
+192,Toy Story,"$229,947,062",1995
+193,The Lost World: Jurassic Park,"$229,086,679",1997
+194,Justice League,"$229,024,295",2017
+195,Star Trek Into Darkness,"$228,778,661",2013
+196,The Martian,"$228,433,663",2015
+197,Signs,"$227,966,634",2002
+198,Hancock,"$227,946,274",2008
+199,The Bourne Ultimatum,"$227,471,070",2007
+200,Logan,"$226,277,068",2017
+201,Rush Hour 2,"$226,164,286",2001
+202,The Fate of the Furious,"$226,008,385",2017
+203,Shang-Chi and the Legend of the Ten Rings,"$224,543,292",2021
+204,WALL·E,"$223,808,164",2008
+205,Big Hero 6,"$222,527,828",2014
+206,Back to the Future,"$222,476,852",1985
+207,Mission: Impossible - Fallout,"$220,159,104",2018
+208,National Treasure: Book of Secrets,"$219,964,115",2007
+209,Alvin and the Chipmunks: The Squeakquel,"$219,614,612",2009
+210,Mrs. Doubtfire,"$219,195,243",1993
+211,Beauty and the Beast,"$218,967,620",1991
+212,Ted,"$218,815,487",2012
+213,Wonka,"$218,402,312",2023
+214,King Kong,"$218,080,025",2005
+215,Ghost,"$217,631,306",1990
+216,How to Train Your Dragon,"$217,581,231",2010
+217,The Da Vinci Code,"$217,536,138",2006
+218,Aladdin,"$217,350,219",1992
+219,Alvin and the Chipmunks,"$217,326,974",2007
+220,Saving Private Ryan,"$217,049,603",1998
+221,Bohemian Rhapsody,"$216,668,042",2018
+222,Ant-Man and the Wasp,"$216,648,740",2018
+223,Madagascar 3: Europe's Most Wanted,"$216,391,482",2012
+224,Kung Fu Panda,"$216,064,546",2008
+225,Mission: Impossible II,"$215,409,889",2000
+226,A Star Is Born,"$215,333,122",2018
+227,X2: X-Men United,"$214,949,694",2003
+228,Ant-Man and the Wasp: Quantumania,"$214,504,909",2023
+229,The Lorax,"$214,494,550",2012
+230,Solo: A Star Wars Story,"$213,767,512",2018
+231,Venom: Let There Be Carnage,"$213,550,366",2021
+232,Venom,"$213,515,506",2018
+233,Austin Powers in Goldmember,"$213,307,889",2002
+234,It: Chapter Two,"$211,622,525",2019
+235,300,"$210,629,101",2007
+236,Coco,"$210,460,015",2017
+237,Fast Five,"$209,837,675",2011
+238,Mission: Impossible - Ghost Protocol,"$209,397,903",2011
+239,Wedding Crashers,"$209,273,411",2005
+240,Sherlock Holmes,"$209,028,679",2009
+241,Dawn of the Planet of the Apes,"$208,545,589",2014
+242,Batman Begins,"$206,863,479",2005
+243,Charlie and the Chocolate Factory,"$206,459,076",2005
+244,Ratatouille,"$206,445,654",2007
+245,Thor: The Dark World,"$206,362,140",2013
+246,Bad Boys for Life,"$206,305,244",2020
+247,Austin Powers: The Spy Who Shagged Me,"$206,040,086",1999
+248,Terminator 2: Judgment Day,"$205,881,154",1991
+249,The Amazing Spider-Man 2,"$203,605,622",2014
+250,Interstellar,"$203,227,580",2014
+251,World War Z,"$202,807,711",2013
+252,The Mummy Returns,"$202,804,895",2001
+253,Armageddon,"$201,578,182",1998
+254,Cinderella,"$201,151,353",2015
+255,Ralph Breaks the Internet,"$201,091,711",2018
+256,Gone with the Wind,"$200,882,193",1939
+257,Tangled,"$200,821,936",2010
+258,Godzilla,"$200,676,069",2014
+259,Captain America: Brave New World,"$200,500,001",2025
+260,Superman Returns,"$200,081,192",2006
+261,Spectre,"$200,074,609",2015
+262,Pearl Harbor,"$198,542,554",2001
+263,Monsters vs. Aliens,"$198,351,526",2009
+264,Happy Feet,"$198,000,317",2006
+265,Mission: Impossible - The Final Reckoning,"$197,413,515",2025
+266,Indiana Jones and the Last Crusade,"$197,171,806",1989
+267,Ice Age: Dawn of the Dinosaurs,"$196,573,705",2009
+268,Godzilla x Kong: The New Empire,"$196,350,016",2024
+269,Twilight,"$195,553,813",2008
+270,Ice Age 2: The Meltdown,"$195,330,621",2006
+271,Mission: Impossible - Rogue Nation,"$195,042,377",2015
+272,Madagascar,"$194,820,396",2005
+273,Men in Black II,"$193,735,288",2002
+274,Kung Fu Panda 4,"$193,590,620",2024
+275,Bad Boys: Ride or Die,"$193,573,217",2024
+276,22 Jump Street,"$191,719,337",2014
+277,Cars 2,"$191,452,396",2011
+278,Teenage Mutant Ninja Turtles,"$191,204,754",2014
+279,The Polar Express,"$191,019,448",2005
+280,Sonic the Hedgehog 2,"$190,872,904",2022
+281,Thunderbolts*,"$190,274,328",2025
+282,Spider-Man: Into the Spider-Verse,"$190,241,310",2018
+283,Grease,"$190,071,103",1978
+284,Dunkirk,"$189,740,665",2017
+285,F1: The Movie,"$189,642,436",2025
+286,Wreck-It Ralph,"$189,422,889",2012
+287,A Quiet Place,"$188,024,361",2018
+288,Gladiator,"$187,705,427",2000
+289,The Croods,"$187,168,425",2013
+290,John Wick: Chapter 4,"$187,131,806",2023
+291,Sherlock Holmes: A Game of Shadows,"$186,848,418",2011
+292,The Day After Tomorrow,"$186,740,799",2004
+293,Mr. & Mrs. Smith,"$186,336,279",2005
+294,Puss in Boots: The Last Wish,"$186,090,535",2022
+295,Snow White and the Seven Dwarfs,"$184,925,486",1937
+296,Pitch Perfect 2,"$184,296,230",2015
+297,The Revenant,"$184,247,394",2015
+298,Dances with Wolves,"$184,208,848",1990
+299,Sound of Freedom,"$184,178,046",2023
+300,Batman Forever,"$184,069,126",1995
+301,The Fugitive,"$183,875,760",1993
+302,Black Widow,"$183,651,655",2021
+303,Ocean's Eleven,"$183,417,150",2001
+304,The Simpsons Movie,"$183,135,014",2007
+305,What Women Want,"$182,811,707",2000
+306,The Perfect Storm,"$182,618,434",2000
+307,Lincoln,"$182,207,973",2012
+308,Liar Liar,"$181,410,615",1997
+309,Jurassic Park III,"$181,171,875",2001
+310,Thor,"$181,030,624",2011
+311,Mission: Impossible,"$180,981,856",1996
+312,Taylor Swift: The Eras Tour,"$180,756,269",2023
+313,Top Gun,"$180,258,178",1986
+314,Ant-Man,"$180,202,163",2015
+315,Planet of the Apes,"$180,011,740",2001
+316,Madagascar: Escape 2 Africa,"$180,010,950",2008
+317,X-Men Origins: Wolverine,"$179,883,157",2009
+318,Indiana Jones and the Temple of Doom,"$179,870,271",1984
+319,Elf,"$179,757,261",2003
+320,Hitch,"$179,495,555",2005
+321,Men in Black³,"$179,020,854",2012
+322,Pretty Woman,"$178,406,268",1990
+323,The Conjuring: Last Rites,"$177,756,445",2025
+324,The Matrix,"$177,559,005",1999
+325,Home,"$177,397,510",2015
+326,Night at the Museum: Battle of the Smithsonian,"$177,243,721",2009
+327,Tootsie,"$177,200,000",1982
+328,How to Train Your Dragon 2,"$177,002,924",2014
+329,Rise of the Planet of the Apes,"$176,760,185",2011
+330,Captain America: The First Avenger,"$176,654,505",2011
+331,The Karate Kid,"$176,591,618",2010
+332,There's Something About Mary,"$176,484,651",1998
+333,Ice Age,"$176,387,405",2002
+334,The Bourne Supremacy,"$176,241,941",2004
+335,Get Out,"$176,196,665",2017
+336,The Lego Batman Movie,"$175,936,671",2017
+337,Us,"$175,084,580",2019
+338,The Boss Baby,"$175,003,033",2017
+339,Crazy Rich Asians,"$174,837,452",2018
+340,Crocodile Dundee,"$174,803,506",1986
+341,Apollo 13,"$174,692,658",1995
+342,Indiana Jones and the Dial of Destiny,"$174,480,468",2023
+343,The Greatest Showman,"$174,340,174",2017
+344,Fast & Furious Presents: Hobbs & Shaw,"$173,956,935",2019
+345,Home Alone 2: Lost in New York,"$173,585,516",1992
+346,National Treasure,"$173,008,894",2004
+347,F9: The Fast Saga,"$173,005,945",2021
+348,Air Force One,"$172,956,409",1997
+349,Rain Man,"$172,825,435",1988
+350,Mission: Impossible - Dead Reckoning Part One,"$172,640,980",2023
+351,Pirates of the Caribbean: Dead Men Tell No Tales,"$172,558,876",2017
+352,Gladiator II,"$172,438,016",2024
+353,Tron: Legacy,"$172,062,763",2010
+354,Mary Poppins Returns,"$171,958,438",2018
+355,True Grit,"$171,243,005",2010
+356,Kingdom of the Planet of the Apes,"$171,130,165",2024
+357,Tarzan,"$171,091,819",1999
+358,John Wick: Chapter 3 - Parabellum,"$171,015,687",2019
+359,A Beautiful Mind,"$170,742,341",2001
+360,Chicago,"$170,687,518",2002
+361,The Help,"$169,708,112",2011
+362,Hotel Transylvania 2,"$169,700,110",2015
+363,Hidden Figures,"$169,607,287",2016
+364,Bridesmaids,"$169,451,048",2011
+365,Quantum of Solace,"$168,368,427",2008
+366,Wild Hogs,"$168,273,550",2007
+367,Black Adam,"$168,152,111",2022
+368,Kong: Skull Island,"$168,052,812",2017
+369,Three Men and a Baby,"$167,780,960",1987
+370,Gone Girl,"$167,767,189",2014
+371,Hotel Transylvania 3: Summer Vacation,"$167,510,016",2018
+372,Casino Royale,"$167,445,960",2006
+373,The Hunger Games: The Ballad of Songbirds & Snakes,"$166,350,594",2023
+374,Meet the Parents,"$166,244,045",2000
+375,Fifty Shades of Grey,"$166,167,230",2015
+376,2012,"$166,112,167",2009
+377,Robin Hood: Prince of Thieves,"$165,493,908",1991
+378,Knives Out,"$165,363,234",2019
+379,Kung Fu Panda 2,"$165,249,063",2011
+380,Hannibal,"$165,092,268",2001
+381,Eternals,"$164,870,234",2021
+382,Catch Me If You Can,"$164,615,351",2002
+383,The Proposal,"$163,958,031",2009
+384,The Pursuit of Happyness,"$163,566,459",2006
+385,Big Daddy,"$163,479,795",1999
+386,Clash of the Titans,"$163,214,888",2010
+387,The SpongeBob Movie: Sponge Out of Water,"$162,994,032",2015
+388,Batman Returns,"$162,924,631",1992
+389,Django Unchained,"$162,805,434",2012
+390,A Bug's Life,"$162,798,565",1998
+391,Sing 2,"$162,790,990",2021
+392,Jason Bourne,"$162,434,410",2016
+393,Grown Ups,"$162,001,186",2010
+394,The Waterboy,"$161,491,646",1998
+395,Ice Age: Continental Drift,"$161,321,843",2012
+396,Straight Outta Compton,"$161,197,785",2015
+397,How to Train Your Dragon: The Hidden World,"$160,945,505",2019
+398,Die Another Day,"$160,942,139",2002
+399,No Time to Die,"$160,891,007",2021
+400,The Sound of Music,"$160,888,776",1965
+401,Shark Tale,"$160,861,908",2004
+402,A Quiet Place Part II,"$160,072,261",2021
+403,The Heat,"$159,582,188",2013
+404,Fantastic Beasts: The Crimes of Grindelwald,"$159,555,901",2018
+405,Halloween,"$159,342,015",2018
+406,1917,"$159,227,644",2019
+407,The Secret Life of Pets 2,"$158,980,250",2019
+408,Star Trek Beyond,"$158,848,340",2016
+409,The Firm,"$158,348,367",1993
+410,The Longest Yard,"$158,119,460",2005
+411,Transformers: Rise of the Beasts,"$157,341,749",2023
+412,X-Men,"$157,299,718",2000
+413,Hoppers,"$157,122,859",2026
+414,The Mummy,"$157,095,368",1999
+415,Scary Movie,"$157,019,771",2000
+416,Fatal Attraction,"$156,645,693",1987
+417,Who Framed Roger Rabbit,"$156,452,370",1988
+418,Creed III,"$156,248,615",2023
+419,The Sting,"$156,000,000",1973
+420,What Lies Beneath,"$155,464,351",2000
+421,X-Men: Apocalypse,"$155,442,489",2016
+422,Snow White and the Huntsman,"$155,332,381",2012
+423,San Andreas,"$155,190,832",2015
+424,Fast & Furious,"$155,064,265",2009
+425,Over the Hedge,"$155,019,340",2006
+426,Fantastic Four,"$154,696,080",2005
+427,Horton Hears a Who!,"$154,529,439",2008
+428,Elemental,"$154,426,697",2023
+429,Mad Max: Fury Road,"$154,280,290",2015
+430,Trolls,"$154,174,089",2016
+431,Jerry Maguire,"$153,952,592",1996
+432,Beverly Hills Cop II,"$153,665,036",1987
+433,Gremlins,"$153,642,180",1984
+434,Scooby-Doo,"$153,322,074",2002
+435,Cars 3,"$152,901,115",2017
+436,Sex and the City,"$152,647,258",2008
+437,Runaway Bride,"$152,257,509",1999
+438,Weapons,"$151,572,492",2025
+439,La La Land,"$151,101,803",2016
+440,Elvis,"$151,040,048",2022
+441,Divergent,"$150,947,895",2014
+442,Rambo: First Blood Part II,"$150,415,432",1985
+443,We're the Millers,"$150,394,119",2013
+444,Terminator 3: Rise of the Machines,"$150,371,112",2003
+445,Daddy's Home,"$150,357,137",2015
+446,G.I. Joe: The Rise of Cobra,"$150,201,498",2009
+447,Neighbors,"$150,157,400",2014
+448,American Hustle,"$150,117,807",2013
+449,Puss in Boots,"$149,260,504",2011
+450,Les Misérables,"$149,260,140",2012
+451,Sonic the Hedgehog,"$148,974,665",2020
+452,Knocked Up,"$148,768,917",2007
+453,Uncharted,"$148,648,820",2022
+454,It Ends with Us,"$148,518,266",2024
+455,As Good as It Gets,"$148,478,011",1997
+456,Little Fockers,"$148,438,600",2010
+457,Hotel Transylvania,"$148,426,305",2012
+458,Megamind,"$148,415,853",2010
+459,Talladega Nights: The Ballad of Ricky Bobby,"$148,213,377",2006
+460,Gran Torino,"$148,095,302",2008
+461,Lethal Weapon 2,"$147,253,986",1989
+462,War for the Planet of the Apes,"$146,880,162",2017
+463,X-Men: First Class,"$146,408,305",2011
+464,Paul Blart: Mall Cop,"$146,336,178",2009
+465,True Lies,"$146,282,411",1994
+466,Fast X,"$146,126,015",2023
+467,Lilo & Stitch,"$145,794,338",2002
+468,The Santa Clause,"$145,539,357",1994
+469,The Meg,"$145,522,784",2018
+470,American Pie 2,"$145,103,595",2001
+471,Taken,"$145,000,989",2009
+472,One Hundred and One Dalmatians,"$144,880,014",1961
+473,The Great Gatsby,"$144,857,996",2013
+474,"I, Robot","$144,801,023",2004
+475,The Fast and the Furious,"$144,745,925",2001
+476,Lethal Weapon 3,"$144,731,527",1992
+477,Mamma Mia!,"$144,330,569",2008
+478,Pokémon: Detective Pikachu,"$144,174,568",2019
+479,Doctor Dolittle,"$144,156,605",1998
+480,The Wild Robot,"$143,901,945",2024
+481,Rio,"$143,619,809",2011
+482,Kung Fu Panda 3,"$143,528,619",2016
+483,Juno,"$143,495,265",2007
+484,Marley & Me,"$143,153,751",2008
+485,The Smurfs,"$142,614,158",2011
+486,Once Upon a Time... in Hollywood,"$142,502,728",2019
+487,xXx,"$142,109,382",2002
+488,The Jungle Book,"$141,843,612",1967
+489,The Chronicles of Narnia: Prince Caspian,"$141,621,490",2008
+490,National Lampoon's Animal House,"$141,600,000",1978
+491,Pocahontas,"$141,579,773",1995
+492,A Few Good Men,"$141,340,178",1992
+493,Slumdog Millionaire,"$141,319,928",2008
+494,Rush Hour,"$141,186,864",1998
+495,The Blair Witch Project,"$140,539,099",1999
+496,Shazam!,"$140,480,049",2019
+497,Deep Impact,"$140,464,664",1998
+498,Ocean's Eight,"$140,295,726",2018
+499,Rush Hour 3,"$140,125,968",2007
+500,Look Who's Talking,"$140,088,813",1989
+501,Stuart Little,"$140,035,367",1999
+502,Taken 2,"$139,854,287",2012
+503,Venom: The Last Dance,"$139,755,882",2024
+504,Sister Act,"$139,605,150",1992
+505,The Matrix Revolutions,"$139,313,948",2003
+506,The Santa Clause 2,"$139,236,327",2002
+507,A Quiet Place: Day One,"$139,051,884",2024
+508,The King's Speech,"$138,797,449",2010
+509,Cheaper by the Dozen,"$138,614,544",2003
+510,Bad Boys II,"$138,608,444",2003
+511,Platoon,"$138,530,565",1986
+512,21 Jump Street,"$138,447,667",2012
+513,Good Will Hunting,"$138,433,435",1997
+514,Split,"$138,291,365",2017
+515,Final Destination: Bloodlines,"$138,254,739",2025
+516,A Christmas Carol,"$137,855,863",2009
+517,Dinosaur,"$137,748,063",2000
+518,Ready Player One,"$137,715,350",2018
+519,The Conjuring,"$137,446,368",2013
+520,Click,"$137,355,633",2006
+521,Five Nights at Freddy's,"$137,275,620",2023
+522,Demon Slayer: Kimetsu No Yaiba Infinity Castle,"$136,950,340",2025
+523,The Green Mile,"$136,801,374",1999
+524,Ransom,"$136,492,681",1996
+525,The Godfather,"$136,381,073",1972
+526,Godzilla,"$136,314,294",1998
+527,101 Dalmatians,"$136,189,294",1996
+528,Argo,"$136,025,503",2012
+529,Anger Management,"$135,645,823",2003
+530,Chicken Little,"$135,386,665",2005
+531,Teenage Mutant Ninja Turtles,"$135,384,756",1990
+532,Close Encounters of the Third Kind,"$135,189,114",1977
+533,Patch Adams,"$135,026,902",1998
+534,Ride Along,"$134,938,200",2014
+535,The Incredible Hulk,"$134,806,913",2008
+536,Live Free or Die Hard,"$134,529,403",2007
+537,Wanted,"$134,508,551",2008
+538,Identity Thief,"$134,506,920",2013
+539,Superman,"$134,478,449",1978
+540,The Rock,"$134,069,511",1996
+541,Mission: Impossible III,"$134,029,801",2006
+542,Grown Ups 2,"$133,668,525",2013
+543,Troy,"$133,378,256",2004
+544,Angels & Demons,"$133,375,846",2009
+545,Alvin and the Chipmunks: Chipwrecked,"$133,110,742",2011
+546,Bringing Down the House,"$132,716,677",2003
+547,The Wolverine,"$132,556,852",2013
+548,Wonder,"$132,422,809",2017
+549,The Departed,"$132,399,394",2006
+550,Hulk,"$132,177,234",2003
+551,Silver Linings Playbook,"$132,092,958",2012
+552,Minority Report,"$132,072,926",2002
+553,Fantastic Four: Rise of the Silver Surfer,"$131,921,738",2007
+554,The Last Airbender,"$131,772,187",2010
+555,Rio 2,"$131,538,435",2014
+556,Lara Croft: Tomb Raider,"$131,168,070",2001
+557,The Silence of the Lambs,"$130,742,922",1991
+558,"Honey, I Shrunk the Kids","$130,724,172",1989
+559,The Flintstones,"$130,531,208",1994
+560,Lethal Weapon 4,"$130,444,603",1998
+561,Get Smart,"$130,319,208",2008
+562,The Divergent Series: Insurgent,"$130,179,072",2015
+563,The Peanuts Movie,"$130,178,411",2015
+564,Transformers: The Last Knight,"$130,168,683",2017
+565,American Gangster,"$130,164,645",2007
+566,American Beauty,"$130,096,601",1999
+567,An Officer and a Gentleman,"$129,795,554",1982
+568,Ghostbusters: Afterlife,"$129,471,867",2021
+569,The Ring,"$129,128,133",2002
+570,The Nutty Professor,"$128,814,019",1996
+571,"Crouching Tiger, Hidden Dragon","$128,530,421",2000
+572,Borat,"$128,505,958",2006
+573,Ghostbusters,"$128,350,574",2016
+574,Kingsman: The Secret Service,"$128,261,724",2015
+575,Robots,"$128,200,012",2005
+576,Coming to America,"$128,152,301",1988
+577,Shutter Island,"$128,012,934",2010
+578,Into the Woods,"$128,002,372",2014
+579,Rocky IV,"$127,873,716",1985
+580,Enchanted,"$127,807,262",2007
+581,Five Nights at Freddy's 2,"$127,730,290",2025
+582,Migration,"$127,630,880",2023
+583,The Curious Case of Benjamin Button,"$127,509,326",2008
+584,Central Intelligence,"$127,440,871",2016
+585,Anchorman 2: The Legend Continues,"$127,352,707",2013
+586,Sweet Home Alabama,"$127,223,418",2002
+587,Bumblebee,"$127,195,589",2018
+588,Dumb and Dumber,"$127,190,327",1994
+589,2 Fast 2 Furious,"$127,154,901",2003
+590,My Best Friend's Wedding,"$127,120,029",1997
+591,Super 8,"$127,004,179",2011
+592,The World Is Not Enough,"$126,943,684",1999
+593,Sleepless in Seattle,"$126,808,165",1993
+594,Smokey and the Bandit,"$126,737,428",1977
+595,Lucy,"$126,663,600",2014
+596,The Legend of Tarzan,"$126,643,061",2016
+597,Bee Movie,"$126,631,277",2007
+598,Prometheus,"$126,477,084",2012
+599,The Housemaid,"$126,432,462",2025
+600,Safe House,"$126,373,434",2012
+601,Mr. Deeds,"$126,293,452",2002
+602,The Truman Show,"$125,618,201",1998
+603,Erin Brockovich,"$125,595,205",2000
+604,Ocean's Twelve,"$125,544,280",2004
+605,Terminator Salvation,"$125,322,469",2009
+606,Charlie's Angels,"$125,305,545",2000
+607,Tomorrow Never Dies,"$125,304,276",1997
+608,Lone Survivor,"$125,095,601",2013
+609,Sully,"$125,070,033",2016
+610,Rocky III,"$125,049,125",1982
+611,The Vow,"$125,014,030",2012
+612,Life of Pi,"$124,987,023",2012
+613,The Fault in Our Stars,"$124,872,350",2014
+614,Cloudy with a Chance of Meatballs,"$124,870,275",2009
+615,The Devil Wears Prada,"$124,740,460",2006
+616,Something's Gotta Give,"$124,728,738",2003
+617,Aquaman and the Lost Kingdom,"$124,481,226",2023
+618,Traffic,"$124,115,725",2000
+619,The Birdcage,"$124,060,553",1996
+620,City Slickers,"$124,033,791",1991
+621,"Good Morning, Vietnam","$123,922,370",1987
+622,Rango,"$123,477,607",2011
+623,Nutty Professor II: The Klumps,"$123,309,890",2000
+624,Nope,"$123,277,080",2022
+625,The Good Dinosaur,"$123,087,120",2015
+626,G.I. Joe: Retaliation,"$122,523,060",2013
+627,Clear and Present Danger,"$122,187,717",1994
+628,The Bodyguard,"$122,046,449",1992
+629,The Hunt for Red October,"$122,012,643",1990
+630,Wayne's World,"$121,697,323",1992
+631,The Bourne Identity,"$121,661,683",2002
+632,Free Guy,"$121,626,598",2021
+633,Scream 7,"$121,482,103",2026
+634,Superbad,"$121,463,226",2007
+635,Speed,"$121,248,145",1994
+636,50 First Dates,"$120,908,074",2004
+637,Mamma Mia! Here We Go Again,"$120,634,935",2018
+638,Mulan,"$120,620,254",1998
+639,Inglourious Basterds,"$120,540,719",2009
+640,Seabiscuit,"$120,277,854",2003
+641,Van Helsing,"$120,177,084",2004
+642,Four Christmases,"$120,146,040",2008
+643,I Now Pronounce You Chuck & Larry,"$120,059,556",2007
+644,The Mask,"$119,938,730",1994
+645,Cloudy with a Chance of Meatballs 2,"$119,793,567",2013
+646,Hook,"$119,654,823",1991
+647,Blazing Saddles,"$119,616,663",1974
+648,Walk the Line,"$119,519,402",2005
+649,G-Force,"$119,436,770",2009
+650,Total Recall,"$119,412,921",1990
+651,Back to the Future Part II,"$119,361,197",1989
+652,On Golden Pond,"$119,285,432",1981
+653,The Other Guys,"$119,219,978",2010
+654,Fahrenheit 9/11,"$119,194,771",2004
+655,Hairspray,"$118,946,291",2007
+656,The Sum of All Fears,"$118,907,036",2002
+657,The Break-Up,"$118,703,275",2006
+658,Teenage Mutant Ninja Turtles: Mutant Mayhem,"$118,700,272",2023
+659,A Series of Unfortunate Events,"$118,634,549",2004
+660,Blades of Glory,"$118,594,548",2007
+661,Salt,"$118,311,368",2010
+662,Lightyear,"$118,307,188",2022
+663,Basic Instinct,"$117,727,224",1992
+664,Now You See Me,"$117,723,989",2013
+665,Ford v Ferrari,"$117,624,357",2019
+666,Big Momma's House,"$117,559,438",2000
+667,Die Hard 2,"$117,540,947",1990
+668,Horrible Bosses,"$117,538,559",2011
+669,The Nun,"$117,481,222",2018
+670,Rocky,"$117,235,147",1976
+671,Jackass 3D,"$117,229,692",2010
+672,Ocean's Thirteen,"$117,154,724",2007
+673,Jungle Cruise,"$116,987,516",2021
+674,S.W.A.T.,"$116,934,650",2003
+675,The Wolf of Wall Street,"$116,900,694",2013
+676,Coraline,"$116,896,576",2009
+677,8 Mile,"$116,750,901",2002
+678,Double Jeopardy,"$116,741,558",1999
+679,The Butler,"$116,632,095",2013
+680,Green Lantern,"$116,601,172",2011
+681,Notting Hill,"$116,089,678",1999
+682,The Towering Inferno,"$116,000,000",1974
+683,You've Got Mail,"$115,821,495",1998
+684,Ghost Rider,"$115,802,596",2007
+685,Remember the Titans,"$115,719,751",2000
+686,Creed II,"$115,715,889",2018
+687,The Rocky Horror Picture Show,"$115,670,886",1975
+688,District 9,"$115,646,235",2009
+689,Unbroken,"$115,637,895",2014
+690,Peter Rabbit,"$115,253,424",2018
+691,Big,"$115,227,281",1988
+692,Girls Trip,"$115,171,585",2017
+693,The Karate Kid Part II,"$115,103,979",1986
+694,American Graffiti,"$115,000,000",1973
+695,Dumbo,"$114,766,307",2019
+696,Fifty Shades Darker,"$114,581,250",2017
+697,Dodgeball: A True Underdog Story,"$114,326,736",2004
+698,The Village,"$114,197,520",2004
+699,Bolt,"$114,053,579",2008
+700,Maleficent: Mistress of Evil,"$113,929,605",2019
+701,Wild Wild West,"$113,804,681",1999
+702,Magic Mike,"$113,781,613",2012
+703,Night at the Museum: Secret of the Tomb,"$113,746,621",2014
+704,The Addams Family,"$113,502,426",1991
+705,Ghostbusters: Frozen Empire,"$113,376,590",2024
+706,The Patriot,"$113,330,342",2000
+707,Bad Moms,"$113,257,297",2016
+708,The Bourne Legacy,"$113,203,870",2012
+709,The Pacifier,"$113,086,868",2005
+710,Dr. Dolittle 2,"$112,952,899",2001
+711,It's Complicated,"$112,735,375",2009
+712,Spy Kids,"$112,719,001",2001
+713,Ghostbusters II,"$112,494,738",1989
+714,Face/Off,"$112,276,146",1997
+715,The Hangover Part III,"$112,200,072",2013
+716,Twins,"$111,938,388",1988
+717,Spy Kids 3: Game Over,"$111,761,982",2003
+718,Doctor Zhivago,"$111,721,910",1965
+719,Enemy of the State,"$111,549,836",1998
+720,The Little Mermaid,"$111,543,479",1989
+721,Mr. Peabody & Sherman,"$111,506,430",2014
+722,IF,"$111,375,918",2024
+723,Porky's,"$111,289,673",1982
+724,The Last Samurai,"$111,127,263",2003
+725,Glass,"$111,048,468",2019
+726,Spy,"$110,825,712",2015
+727,Valentine's Day,"$110,528,528",2010
+728,Tropic Thunder,"$110,515,313",2008
+729,Godzilla: King of the Monsters,"$110,500,138",2019
+730,The Grudge,"$110,359,362",2004
+731,Fun with Dick and Jane,"$110,332,737",2005
+732,Freaky Friday,"$110,230,332",2003
+733,Trainwreck,"$110,225,700",2015
+734,Bedtime Stories,"$110,101,975",2008
+735,Scary Movie 3,"$110,003,217",2003
+736,Creed,"$109,778,883",2015
+737,Star Trek IV: The Voyage Home,"$109,713,132",1986
+738,The 40-Year-Old Virgin,"$109,484,237",2005
+739,Crocodile Dundee II,"$109,306,210",1988
+740,Couples Retreat,"$109,204,945",2009
+741,One Flew Over the Cuckoo's Nest,"$108,981,275",1975
+742,Dune: Part One,"$108,897,830",2021
+743,A Time to Kill,"$108,766,007",1996
+744,Black Hawk Down,"$108,638,745",2001
+745,Hop,"$108,498,305",2011
+746,Terms of Endearment,"$108,423,489",1983
+747,Scream VI,"$108,391,107",2023
+748,Ace Ventura: When Nature Calls,"$108,385,533",1995
+749,The Upside,"$108,252,517",2019
+750,The Princess Diaries,"$108,248,956",2001
+751,Superman II,"$108,185,706",1981
+752,The Flash,"$108,133,313",2023
+753,Little Women,"$108,101,214",2019
+754,Pulp Fiction,"$107,928,762",1994
+755,Paranormal Activity,"$107,918,810",2009
+756,Baby Driver,"$107,825,862",2017
+757,Black Swan,"$107,770,258",2010
+758,A League of Their Own,"$107,533,928",1992
+759,Epic,"$107,518,682",2013
+760,Watchmen,"$107,509,799",2009
+761,The Angry Birds Movie,"$107,509,366",2016
+762,Batman & Robin,"$107,353,792",1997
+763,Captain Phillips,"$107,100,855",2013
+764,Chicken Run,"$107,071,709",2000
+765,Analyze This,"$106,885,658",1999
+766,Miss Congeniality,"$106,807,667",2000
+767,Indecent Proposal,"$106,614,059",1993
+768,Driving Miss Daisy,"$106,593,296",1989
+769,300: Rise of an Empire,"$106,580,051",2014
+770,Love Story,"$106,550,690",1970
+771,GoldenEye,"$106,429,941",1995
+772,Kramer vs. Kramer,"$106,260,000",1979
+773,The Italian Job,"$106,128,601",2003
+774,The Lego Movie 2: The Second Part,"$105,956,290",2019
+775,Smile,"$105,935,048",2022
+776,How to Lose a Guy in 10 Days,"$105,813,373",2003
+777,The First Wives Club,"$105,489,203",1996
+778,The Lost City,"$105,344,029",2022
+779,Alien: Romulus,"$105,313,091",2024
+780,Robin Hood,"$105,269,730",2010
+781,Interview with the Vampire,"$105,264,608",1994
+782,George of the Jungle,"$105,263,257",1997
+783,Hustlers,"$104,963,598",2019
+784,The Graduate,"$104,945,305",1967
+785,Pitch Perfect 3,"$104,897,530",2017
+786,Phenomenon,"$104,636,382",1996
+787,American Wedding,"$104,565,114",2003
+788,Road to Perdition,"$104,454,762",2002
+789,The Princess and the Frog,"$104,400,899",2009
+790,The Chronicles of Narnia: The Voyage of the Dawn Treader,"$104,386,950",2010
+791,Daddy Day Care,"$104,297,061",2003
+792,Daddy's Home 2,"$104,029,443",2017
+793,Paranormal Activity 3,"$104,028,807",2011
+794,Journey 2: The Mysterious Island,"$103,887,748",2012
+795,The Mule,"$103,804,407",2018
+796,Dick Tracy,"$103,738,726",1990
+797,Rise of the Guardians,"$103,412,758",2012
+798,Bullet Train,"$103,368,602",2022
+799,Dreamgirls,"$103,365,956",2006
+800,9 to 5,"$103,290,500",1980
+801,Trolls Band Together,"$103,270,155",2023
+802,Independence Day: Resurgence,"$103,144,286",2016
+803,GOAT,"$103,071,341",2026
+804,The Expendables,"$103,068,524",2010
+805,Scream,"$103,046,663",1996
+806,Just Go with It,"$103,028,109",2011
+807,Murder on the Orient Express,"$102,826,543",2017
+808,The General's Daughter,"$102,705,852",1999
+809,Casper,"$102,677,077",1995
+810,The Aviator,"$102,610,330",2004
+811,American Pie,"$102,561,004",1999
+812,Daredevil,"$102,543,518",2003
+813,The Conjuring 2,"$102,516,140",2016
+814,The Girl with the Dragon Tattoo,"$102,515,793",2011
+815,The Mummy: Tomb of the Dragon Emperor,"$102,491,776",2008
+816,The Maze Runner,"$102,427,862",2014
+817,In the Line of Fire,"$102,314,823",1993
+818,Butch Cassidy and the Sundance Kid,"$102,308,889",1969
+819,Mary Poppins,"$102,272,727",1964
+820,Bambi,"$102,247,150",1942
+821,Annabelle: Creation,"$102,092,201",2017
+822,The Equalizer 2,"$102,084,362",2018
+823,Jackass Presents: Bad Grandpa,"$102,003,019",2013
+824,Seven,"$101,871,174",1995
+825,Pacific Rim,"$101,802,906",2013
+826,Journey to the Center of the Earth,"$101,704,370",2008
+827,Gone in 60 Seconds,"$101,648,571",2000
+828,Maverick,"$101,631,272",1994
+829,Sleeping with the Enemy,"$101,599,005",1991
+830,The Equalizer,"$101,530,738",2014
+831,This Is the End,"$101,470,202",2013
+832,Eagle Eye,"$101,440,743",2008
+833,The Prince of Egypt,"$101,413,188",1998
+834,Scream 2,"$101,363,301",1997
+835,Stir Crazy,"$101,300,000",1980
+836,Eraser,"$101,295,562",1996
+837,Noah,"$101,200,044",2014
+838,Unforgiven,"$101,167,799",1992
+839,The Cat in the Hat,"$101,149,285",2003
+840,Con Air,"$101,117,573",1997
+841,Sleepy Hollow,"$101,071,502",1999
+842,Rampage,"$101,028,233",2018
+843,Collateral,"$101,005,703",2004
+844,Contact,"$100,920,329",1997
+845,Godzilla vs. Kong,"$100,916,094",2021
+846,Charlie's Angels: Full Throttle,"$100,830,111",2003
+847,The Pelican Brief,"$100,768,056",1993
+848,The Addams Family,"$100,723,831",2019
+849,Vanilla Sky,"$100,618,344",2001
+850,Arrival,"$100,546,139",2016
+851,Due Date,"$100,539,043",2010
+852,Jumanji,"$100,499,940",1995
+853,The Rugrats Movie,"$100,494,675",1998
+854,Million Dollar Baby,"$100,492,203",2004
+855,Airport,"$100,489,151",1970
+856,A Wrinkle in Time,"$100,478,608",2018
+857,Step Brothers,"$100,468,793",2008
+858,Evan Almighty,"$100,462,298",2007
+859,Fifty Shades Freed,"$100,407,760",2018
+860,Shakespeare in Love,"$100,317,794",1998
+861,Bad Teacher,"$100,292,856",2011
+862,Yogi Bear,"$100,246,011",2010
+863,Cowboys & Aliens,"$100,240,551",2011
+864,Kingsman: The Golden Circle,"$100,234,838",2017
+865,Edge of Tomorrow,"$100,206,256",2014
+866,The Hunchback of Notre Dame,"$100,138,851",1996
+867,Parenthood,"$100,047,830",1989
+868,You Don't Mess with the Zohan,"$100,018,837",2008
+869,Passengers,"$100,014,699",2016
+870,Die Hard with a Vengeance,"$100,012,499",1995
+871,Gnomeo & Juliet,"$99,967,670",2011
+872,Christopher Robin,"$99,215,042",2018
+873,Hercules,"$99,112,101",1997
+874,Olympus Has Fallen,"$98,925,640",2013
+875,The Green Hornet,"$98,780,042",2011
+876,Date Night,"$98,711,404",2010
+877,The Color Purple,"$98,467,863",1985
+878,Dog Man,"$97,970,355",2025
+879,Meet the Robinsons,"$97,822,171",2007
+880,Yes Man,"$97,690,976",2008
+881,Sausage Party,"$97,685,686",2016
+882,The Bad Guys,"$97,459,240",2022
+883,Inspector Gadget,"$97,403,112",1999
+884,Public Enemies,"$97,104,620",2009
+885,Red One,"$97,000,759",2024
+886,Bob Marley: One Love,"$96,981,216",2024
+887,The Social Network,"$96,962,694",2010
+888,Schindler's List,"$96,898,818",1993
+889,Downton Abbey,"$96,853,865",2019
+890,The Others,"$96,578,502",2001
+891,Legally Blonde,"$96,520,674",2001
+892,Panic Room,"$96,397,334",2002
+893,Rocketman,"$96,368,160",2019
+894,Encanto,"$96,093,622",2021
+895,Apocalypse Now,"$96,074,376",1979
+896,Marty Supreme,"$96,020,307",2025
+897,Dead Poets Society,"$95,860,116",1989
+898,Fantastic Beasts: The Secrets of Dumbledore,"$95,850,844",2022
+899,Zero Dark Thirty,"$95,720,716",2012
+900,Norbit,"$95,673,607",2007
+901,Cold Mountain,"$95,636,509",2003
+902,Nosferatu,"$95,608,235",2024
+903,Arthur,"$95,461,682",1981
+904,Sex and the City 2,"$95,347,692",2010
+905,Michael,"$95,318,203",1996
+906,The Princess Diaries 2: Royal Engagement,"$95,170,481",2004
+907,M3GAN,"$95,159,005",2023
+908,42,"$95,059,709",2013
+909,Unbreakable,"$95,011,339",2000
+910,The Book of Eli,"$94,835,059",2010
+911,"10,000 BC","$94,784,201",2008
+912,The Nightmare Before Christmas,"$94,707,435",1993
+913,Beverly Hills Chihuahua,"$94,514,402",2008
+914,Saturday Night Fever,"$94,213,184",1977
+915,Freakier Friday,"$94,186,236",2025
+916,Julie & Julia,"$94,125,426",2009
+917,The Mask of Zorro,"$94,095,523",1998
+918,Maid in Manhattan,"$94,011,225",2002
+919,He's Just Not That Into You,"$93,953,653",2009
+920,Master and Commander: The Far Side of the World,"$93,927,920",2003
+921,Flight,"$93,772,375",2012
+922,DC League of Super-Pets,"$93,657,117",2022
+923,The Fighter,"$93,617,009",2010
+924,America's Sweethearts,"$93,607,673",2001
+925,Lady and the Tramp,"$93,602,326",1955
+926,Dungeons & Dragons: Honor Among Thieves,"$93,549,650",2023
+927,The Bucket List,"$93,466,502",2007
+928,Tomorrowland,"$93,436,322",2015
+929,The Magnificent Seven,"$93,432,655",2016
+930,Cats & Dogs,"$93,385,515",2001
+931,Space Station 3D,"$93,383,953",2002
+932,Two Weeks Notice,"$93,354,851",2002
+933,Red Dragon,"$93,149,898",2002
+934,Cinderella,"$93,141,149",1950
+935,When Harry Met Sally...,"$93,117,425",1989
+936,Elysium,"$93,050,117",2013
+937,Flubber,"$92,977,226",1997
+938,Flashdance,"$92,921,203",1983
+939,The Fall Guy,"$92,900,355",2024
+940,The Equalizer 3,"$92,373,751",2023
+941,The Town,"$92,186,262",2010
+942,Non-Stop,"$92,168,600",2014
+943,The Client,"$92,115,211",1994
+944,Blade Runner 2049,"$92,071,675",2017
+945,John Wick: Chapter 2,"$92,029,184",2017
+946,Star Trek: First Contact,"$92,027,888",1996
+947,Halloween Kills,"$92,002,155",2021
+948,The Garfield Movie,"$91,956,547",2024
+949,Think Like a Man,"$91,547,205",2012
+950,Kindergarten Cop,"$91,457,688",1990
+951,Heaven Is for Real,"$91,443,253",2014
+952,The Haunting,"$91,411,151",1999
+953,Crimson Tide,"$91,387,195",1995
+954,Back to School,"$91,258,000",1986
+955,Ride Along 2,"$91,221,830",2016
+956,Stepmom,"$91,137,662",1998
+957,The Imitation Game,"$91,125,683",2014
+958,Predator: Badlands,"$91,083,631",2025
+959,The Karate Kid,"$91,077,276",1984
+960,Save the Last Dance,"$91,057,006",2001
+961,The Scorpion King,"$91,047,077",2002
+962,Prince of Persia: The Sands of Time,"$90,759,676",2010
+963,Antz,"$90,757,863",1998
+964,Scary Movie 4,"$90,710,620",2006
+965,The Game Plan,"$90,648,202",2007
+966,Space Jam,"$90,594,962",1996
+967,"Me, Myself & Irene","$90,570,999",2000
+968,High School Musical 3: Senior Year,"$90,559,416",2008
+969,Madea Goes to Jail,"$90,508,336",2009
+970,Space Cowboys,"$90,464,773",2000
+971,Get Hard,"$90,411,453",2015
+972,Trading Places,"$90,404,800",1983
+973,RED,"$90,380,162",2010
+974,Planes,"$90,288,712",2013
+975,Where the Crawdads Sing,"$90,230,760",2022
+976,"Legally Blonde 2: Red, White & Blonde","$90,186,328",2003
+977,Mystic River,"$90,135,191",2003
+978,The Black Phone,"$90,123,230",2022
+979,Terminator Genisys,"$89,760,956",2015
+980,Flightplan,"$89,707,299",2005
+981,The Emperor's New Groove,"$89,636,687",2000
+982,Father of the Bride,"$89,325,780",1991
+983,The Lone Ranger,"$89,302,115",2013
+984,Taken 3,"$89,256,424",2015
+985,Don't Breathe,"$89,217,875",2016
+986,Scream 3,"$89,143,175",2000
+987,Oblivion,"$89,107,235",2013
+988,The Ugly Truth,"$88,915,214",2009
+989,Percy Jackson & the Olympians: The Lightning Thief,"$88,768,303",2010
+990,Failure to Launch,"$88,715,192",2006
+991,The Muppets,"$88,631,237",2011
+992,Inside Man,"$88,513,495",2006
+993,Anyone But You,"$88,319,668",2023
+994,Back to the Future Part III,"$88,277,583",1990
+995,Waterworld,"$88,246,220",1995
+996,Starsky & Hutch,"$88,237,754",2004
+997,Along Came Polly,"$88,097,164",2004
+998,The Hand That Rocks the Cradle,"$88,036,683",1992
+999,Entrapment,"$87,704,396",1999
+"1,000",Peter Pan,"$87,404,651",1953
